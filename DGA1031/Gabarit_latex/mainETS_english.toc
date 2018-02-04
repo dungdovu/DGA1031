@@ -1,0 +1,23 @@
+\select@language {english}
+\contentsline {chapter}{INTRODUCTION}{1}{chapter*.8}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 1}\hfil }\uppercase {Long chapter tite, with linebreak. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque justo justo, porta sagittis feugiat eget, ornare rhoncus ligula. Nunc non odio sed lacus rutrum rhoncus. }}}{3}{chapter.10}
+\contentsline {section}{\numberline {1.1}Layout tests}{3}{section.11}
+\contentsline {subsection}{\numberline {1.1.1}Listing tests}{3}{subsection.12}
+\contentsline {subsubsection}{\numberline {1.1.1.1}Enumerations: enum environment}{3}{subsubsection.13}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Lists: itemize environment}{3}{subsubsection.16}
+\contentsline {subsection}{\numberline {1.1.2}Equations tests}{4}{subsection.17}
+\contentsline {section}{\numberline {1.2}Second section}{4}{section.20}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 2}\hfil }\uppercase {Second Chapter }}}{5}{chapter.21}
+\contentsline {section}{\numberline {2.1}Table layout tests}{5}{section.22}
+\contentsline {section}{\numberline {2.2}References test}{5}{section.24}
+\contentsline {subsection}{\numberline {2.2.1}References to the bibliography}{5}{subsection.25}
+\contentsline {subsection}{\numberline {2.2.2}References to the list of references "refs"}{5}{subsection.26}
+\contentsline {subsection}{\numberline {2.2.3}References to a label of the document}{5}{subsection.27}
+\contentsline {subsection}{\numberline {2.2.4}URL references}{6}{subsection.28}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Test of "href"}{6}{subsubsection.29}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Test de url}{6}{subsubsection.30}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 3}\hfil }\uppercase {Example of a thesis by article, with integrated article }}}{7}{chapter.31}
+\contentsline {section}{\numberline {3.1}Section 1}{7}{section.32}
+\contentsline {chapter}{CONCLUSION AND RECOMMENDATIONS}{9}{chapter*.33}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Appendix\ I}\hfil }\uppercase {Appendix example }}}{11}{chapter.34}
+\contentsline {chapter}{BIBLIOGRAPHY}{13}{tableap.caption.44}
