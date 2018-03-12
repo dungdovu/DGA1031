@@ -1,0 +1,14 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Statistics of Disability and Depression}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Artificial Intelligence in Health Care}{4}{0}{1}
+\beamer@sectionintoc {2}{Problem}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Problem}{5}{0}{2}
+\beamer@sectionintoc {3}{Literature Survey}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Literature Review}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Reference}{7}{0}{3}
+\beamer@sectionintoc {4}{Challenges}{8}{0}{4}
+\beamer@sectionintoc {5}{Objectives}{9}{0}{5}
+\beamer@sectionintoc {6}{Methodology}{10}{0}{6}
+\beamer@sectionintoc {7}{Proposed Contribution}{11}{0}{7}
+\beamer@sectionintoc {8}{Study Plan}{12}{0}{8}
