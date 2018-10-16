@@ -1,0 +1,14 @@
+\babel@toc {english}{}
+\contentsline {chapter}{INTRODUCTION}{1}{chapter*.9}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 1}\hfil }\uppercase {Problem Definition. }}}{5}{chapter.13}
+\contentsline {section}{\numberline {1.1}Detect APD early}{5}{section.14}
+\contentsline {section}{\numberline {1.2}Treading APD daily}{7}{section.16}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 2}\hfil }\uppercase {Challenges and Object }}}{9}{chapter.20}
+\contentsline {section}{\numberline {2.1}Challenges}{9}{section.21}
+\contentsline {section}{\numberline {2.2}Objectives}{10}{section.22}
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 3}\hfil }\uppercase {RESEARCH METHODOLOGY }}}{11}{chapter.23}
+\contentsline {section}{\numberline {3.1}Diagnose APD symptoms based on conversation with the candidate children}{11}{section.24}
+\contentsline {subsection}{\numberline {3.1.1}Sound analysis}{11}{subsection.25}
+\contentsline {subsection}{\numberline {3.1.2}Facial sentiment behavior analysis}{12}{subsection.26}
+\contentsline {section}{\numberline {3.2}A training adaptable therapy model assitance}{13}{section.28}
+\contentsline {section}{\numberline {3.3} A monitoring the progress of APD treatment}{13}{section.29}
