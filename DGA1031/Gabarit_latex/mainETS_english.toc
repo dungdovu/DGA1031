@@ -10,5 +10,5 @@
 \contentsline {section}{\numberline {3.1}Diagnose APD symptoms based on conversation with the candidate children}{11}{section.24}
 \contentsline {subsection}{\numberline {3.1.1}Sound analysis}{11}{subsection.25}
 \contentsline {subsection}{\numberline {3.1.2}Facial sentiment behavior analysis}{12}{subsection.26}
-\contentsline {section}{\numberline {3.2}A training adaptable therapy model assitance}{13}{section.28}
-\contentsline {section}{\numberline {3.3} A monitoring the progress of APD treatment}{13}{section.29}
+\contentsline {section}{\numberline {3.2} A monitoring the progress of APD treatment}{13}{section.28}
+\contentsline {section}{\numberline {3.3}A training adaptable therapy model assitance}{13}{section.29}
