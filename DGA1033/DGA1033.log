@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.7)  7 NOV 2018 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.7)  11 NOV 2018 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -939,10 +939,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <f1.jpg, id=181, 603.25375pt x 422.57875pt>
 File: f1.jpg Graphic file (type jpg)
  <use f1.jpg>
-Package pdftex.def Info: f1.jpg used on input line 167.
+Package pdftex.def Info: f1.jpg used on input line 165.
 (pdftex.def)             Requested size: 184.9429pt x 129.54724pt.
 
-Overfull \hbox (13.79526pt too wide) in paragraph at lines 167--167
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 165--165
 [][]  
  []
 
@@ -951,360 +951,103 @@ Overfull \hbox (13.79526pt too wide) in paragraph at lines 167--167
  <./f1.jpg>] <f21.jpg, id=208, 543.02875pt x 629.35126pt>
 File: f21.jpg Graphic file (type jpg)
  <use f21.jpg>
-Package pdftex.def Info: f21.jpg used on input line 192.
+Package pdftex.def Info: f21.jpg used on input line 190.
 (pdftex.def)             Requested size: 156.49014pt x 181.36441pt.
 
 [7
 
- <./f21.jpg>] <f5.jpg, id=236, 595.22375pt x 272.01625pt>
-File: f5.jpg Graphic file (type jpg)
- <use f5.jpg>
-Package pdftex.def Info: f5.jpg used on input line 207.
-(pdftex.def)             Requested size: 184.9429pt x 84.51509pt.
+ <./f21.jpg>]
+Overfull \vbox (68.2889pt too high) detected at line 210
+ []
 
 [8
 
- <./f5.jpg>] <f6.jpg, id=264, 603.25375pt x 352.31625pt>
-File: f6.jpg Graphic file (type jpg)
- <use f6.jpg>
-Package pdftex.def Info: f6.jpg used on input line 223.
-(pdftex.def)             Requested size: 184.9429pt x 108.00732pt.
+] <f9.jpeg, id=263, 563.10374pt x 417.56pt>
+File: f9.jpeg Graphic file (type jpg)
+ <use f9.jpeg>
+Package pdftex.def Info: f9.jpeg used on input line 216.
+(pdftex.def)             Requested size: 227.62204pt x 168.78592pt.
+ [9
 
-[9
+ <./f9.jpeg>]
+<f5.jpg, id=290, 595.22375pt x 272.01625pt>
+File: f5.jpg Graphic file (type jpg)
+ <use f5.jpg>
+Package pdftex.def Info: f5.jpg used on input line 236.
+(pdftex.def)             Requested size: 184.9429pt x 84.51509pt.
 
- <./f6.jpg>] [10
+Overfull \hbox (12.33154pt too wide) detected at line 236
+[][][] [][][][][][][][][] [][][][][][][] 
+ []
 
-]
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...3->\beamer@colclose 
-                                                  \def \beamer@colclose {}\b...
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[10
 
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ <./f5.jpg>] <01.png, id=317, 606.265pt x 262.9825pt>
+File: 01.png Graphic file (type png)
+ <use 01.png>
+Package pdftex.def Info: 01.png used on input line 254.
+(pdftex.def)             Requested size: 273.83728pt x 118.78242pt.
 
+<02.png, id=319, 865.2325pt x 157.58875pt>
+File: 02.png Graphic file (type png)
+ <use 02.png>
+Package pdftex.def Info: 02.png used on input line 254.
+(pdftex.def)             Requested size: 308.06367pt x 56.1091pt.
 
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<03.png, id=320, 428.60126pt x 88.33pt>
+File: 03.png Graphic file (type png)
+ <use 03.png>
+Package pdftex.def Info: 03.png used on input line 254.
+(pdftex.def)             Requested size: 273.83728pt x 56.4353pt.
 
-! Package keyval Error:  undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.254 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...\beamer@colheadskip 
-                                                  \ignorespaces 
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...3->\beamer@colclose 
-                                                  \def \beamer@colclose {}\b...
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Package keyval Error:  undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.254 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...\beamer@colheadskip 
-                                                  \ignorespaces 
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<f3(1).jpg, id=317, 865.2325pt x 426.59375pt>
-File: f3(1).jpg Graphic file (type jpg)
- <use f3(1).jpg>
-Package pdftex.def Info: f3(1).jpg used on input line 254.
-(pdftex.def)             Requested size: 184.9429pt x 91.1821pt.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.254 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \vbox (1.576pt too high) detected at line 254
+ []
 
 [11
 
- <./f3(1).jpg>] [12
+ <./01.png> <./02.png> <./03.png>]
+<f6.jpg, id=350, 603.25375pt x 352.31625pt>
+File: f6.jpg Graphic file (type jpg)
+ <use f6.jpg>
+Package pdftex.def Info: f6.jpg used on input line 275.
+(pdftex.def)             Requested size: 184.9429pt x 108.00732pt.
 
-]
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...3->\beamer@colclose 
-                                                  \def \beamer@colclose {}\b...
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (46.55795pt too wide) detected at line 275
+[][][] [][][][][][][][][] [][][][][][][] 
+ []
 
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+[12
 
-
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Package keyval Error:  undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.281 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...\beamer@colheadskip 
-                                                  \ignorespaces 
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<f4.jpg, id=370, 637.38126pt x 208.78pt>
-File: f4.jpg Graphic file (type jpg)
- <use f4.jpg>
-Package pdftex.def Info: f4.jpg used on input line 281.
-(pdftex.def)             Requested size: 184.9429pt x 60.57968pt.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...3->\beamer@colclose 
-                                                  \def \beamer@colclose {}\b...
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Undefined control sequence.
-\@tempa ->\beamer@colmode 
-                          
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Package keyval Error:  undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.281 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-\beamerx@\beamer@columnenv ...\beamer@colheadskip 
-                                                  \ignorespaces 
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \beamer@colalign 
-                            
-l.281 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ <./f6.jpg>]
+Overfull \hbox (19.37747pt too wide) in paragraph at lines 294--294
+ [] 
+ []
 
 [13
+
+] [14
+
+] <f3(1).jpg, id=435, 903.375pt x 455.7025pt>
+File: f3(1).jpg Graphic file (type jpg)
+ <use f3(1).jpg>
+Package pdftex.def Info: f3(1).jpg used on input line 333.
+(pdftex.def)             Requested size: 184.9429pt x 93.29445pt.
+
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 333--333
+[][]  
+ []
+
+[15
+
+ <./f3(1).jpg>] [16
+
+] <f4.jpg, id=488, 637.38126pt x 208.78pt>
+File: f4.jpg Graphic file (type jpg)
+ <use f4.jpg>
+Package pdftex.def Info: f4.jpg used on input line 368.
+(pdftex.def)             Requested size: 184.9429pt x 60.57968pt.
+
+[17
 
  <./f4.jpg>]
 \tf@nav=\write6
@@ -1316,11 +1059,11 @@ and I'll forget about whatever was undefined.
 \tf@snm=\write8
 \openout8 = `DGA1033.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 377.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 377.
  (./DGA1033.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 377.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 377.
 Package rerunfilecheck Info: File `DGA1033.out' has not changed.
 (rerunfilecheck)             Checksum: AD4AD64870312687BCADE24080629B69;140.
 
@@ -1328,26 +1071,30 @@ Package rerunfilecheck Info: File `DGA1033.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 290.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 377.
  ) 
 Here is how much of TeX's memory you used:
- 16813 strings out of 494910
- 322502 string characters out of 6179836
- 385219 words of memory out of 5000000
- 19665 multiletter control sequences out of 15000+600000
+ 16859 strings out of 494910
+ 323077 string characters out of 6179836
+ 388218 words of memory out of 5000000
+ 19697 multiletter control sequences out of 15000+600000
  13457 words of font info for 50 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 48i,16n,60p,408b,601s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on DGA1033.pdf (13 pages, 395505 bytes).
+ 48i,16n,60p,408b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb>
+Output written on DGA1033.pdf (17 pages, 525139 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
- 32 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 559 PDF objects out of 1000 (max. 8388607)
+ 500 compressed objects within 5 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
