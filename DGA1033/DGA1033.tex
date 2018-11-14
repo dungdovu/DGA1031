@@ -148,19 +148,26 @@ Propose an AI model (virtual assitance) to assit in diagnosing, monitoring, and 
 %------------------------------------------------
 \begin{frame}
 \frametitle{Techniques}
-Convert speech to text
+\textbf{Convert speech to text}
 \begin{columns}[T]
-	\begin{column}{.5\textwidth}
+		\begin{column}{.5\textwidth}
+		
 		\begin{itemize}
-			\item 
+			
+		\item	\textbf{Acoustic modeling} represents the relationship between linguistic units of speech and audio signals.
+		\item	\textbf{Language modeling} matches sounds with word sequences to help distinguish between words that sound similar.
+			
 		\end{itemize}
+		
 	\end{column}
 	\begin{column}{.5\textwidth}
-		
-		\includegraphics[width=65mm]{f1.jpg}
-		
+				\includegraphics[width=65mm]{f1.jpg}
 	\end{column}
+
 \end{columns}
+ {\small We evaluated the quality of output by using two factors:\footnote{https://pypi.org/project/SpeechRecognition/}\\
+
+\textbf{Accuracy} and \textbf{Speed} }
 
 \end{frame}
 
@@ -191,7 +198,7 @@ Convert speech to text
 \begin{frame}
 \textbf{Open Dataset}
 \begin{itemize}
-	\item (NLVR) A Corpus of Natural Language for Visual Reasoning, 2017
+{\scriptsize   	\item (NLVR) A Corpus of Natural Language for Visual Reasoning, 2017
 	\item (MS MARCO) MS MARCO: A Human Generated MAchine Reading COmprehension Dataset, 2016
 	\item (NewsQA) NewsQA: A Machine Comprehension Dataset, 2016 
 	\item (SQuAD) SQuAD: 100,000+ Questions for Machine Comprehension of Text, 2016
@@ -203,7 +210,7 @@ Convert speech to text
 \item 	(CNN-DailyMail) Teaching Machines to Read and Comprehend, 2015 
 \item 	(QuizBowl) A Neural Network for Factoid Question Answering over Paragraphs, 2014 
 \item 	(MCTest) MCTest: A Challenge Dataset for the \item Open-Domain Machine Comprehension of Text, 2013 
-	\item (QASent) What is the Jeopardy model? A quasisynchronous grammar for QA, 2007 
+\item (QASent) What is the Jeopardy model? A quasisynchronous grammar for QA, 2007 }
 \end{itemize}
 
 
@@ -213,6 +220,27 @@ Convert speech to text
 	\textbf{Crawl dataset}\\
 \includegraphics[width=80mm]{f9.jpeg}
 \end{center}
+\end{frame}
+\begin{frame}
+\begin{table}[]
+	\begin{tabular}{|l|llll}
+		\cline{1-1}
+		\textbf{Listening} &  &  &  &  \\ \cline{1-1}
+	Has difficulty locating a sound source.	&  &  &  &  \\ \cline{1-1}
+	Has difficulty hearing in noisy background. 	&  &  &  &  \\ \cline{1-1}
+	Often asks for repetition or clarification 	&  &  &  &  \\ \cline{1-1}
+	\textbf{Speaking}	&  &  &  &  \\ \cline{1-1}
+Has difficulty answering open--ended questions	&  &  &  &  \\ \cline{1-1}
+May speak in oversimplified short sentences with difficulties in syntax  	&  &  &  &  \\ \cline{1-1}
+Mispronounced words, especially long words. 	&  &  &  &  \\ \cline{1-1}
+\textbf{Phonological Awareness}	&  &  &  &  \\ \cline{1-1}
+Has difficulty focusing during conversations	&  &  &  &  \\ \cline{1-1}
+Forgets information that is easily heard 	&  &  &  &  \\ \cline{1-1}
+	\end{tabular}
+	\caption{A part of checklist for assessing whether the child with APD\footnote{https://kidshear.com.au}}
+	\label{1}
+\end{table}
+
 \end{frame}
 \begin{frame}
 \frametitle{Techniques}
@@ -332,6 +360,33 @@ Unit tests of the system
 \end{columns}
 \end{frame}
 
+
+\begin{frame}
+\textbf{Task recommendation model \footnote{https://www.thebsa.org.uk}}
+\begin{center}
+	\includegraphics[width=100mm]{11.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\textbf{Tasks and criteria}\\
+\begin{columns}	
+	\begin{column}{.5\textwidth}
+		\includegraphics[width=65mm]{RL.jpg}
+	\end{column}
+	\begin{column}{.5\textwidth}
+	\begin{itemize}
+		\item State space $\mathcal{S}$: A state $s_t = \{s_t^i\}, i = (1,N)$
+		\item  Action space $\mathcal{A}$: An action $a_t = \{a_t^j\}, j =( 1, K)$
+		\item Reward $\mathcal{R}$: $r(s_t,a_t)$ according to the user's feedback
+		\item Transition probability $\mathcal{P}$: $p(s_{t+1}|s_t,a_t)$ defines the probebility of state transition from $s_t$ to $s_{t+1}$ when Recommender Agent takes action $a_t$
+	\end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
 %------------------------------------------------
 \begin{frame}
 \frametitle{Methodology}
@@ -350,26 +405,43 @@ recognition  based  on  Deep  learning}
 
 \begin{frame}
 \frametitle{Techniques}
-\textbf{Proposal for the objective 3 solution}
+\textbf{Proposal for the objective 3 solution}\\
 \begin{columns}	
-\begin{column}{.7\textwidth}
+\begin{column}{.5\textwidth}
 \includegraphics[width=65mm]{f4.jpg}
 \end{column}
-\begin{column}{.3\textwidth}
+\begin{column}{.5\textwidth}
 
 \begin{itemize}
 \item Convert the APD speech to text
 \item Analysis the meaning of the text
-\item Compute the score of the benchmark A
+\item Make the score of the benchmark table
 \end{itemize}
 
 \end{column}
 \end{columns}
 \end{frame}
 
+\begin{frame}
 
+Describe the score of the training for the respective user at home
+\begin{table}[]
+	\begin{tabular}{|l|l|l|l|l|}
+		\hline
+		\textbf{}                                                         & Observation & Assessment & \begin{tabular}[c]{@{}l@{}}Therapy \\ lesson\end{tabular} & Other \\ \hline
+		Listening                                                         &             &            &                                                              &       \\ \hline
+		Speaking                                                          &             &            &                                                              &       \\ \hline
+		\begin{tabular}[c]{@{}l@{}}Phonological \\ Awareness\end{tabular} &             &            &                                                              &       \\ \hline
+	\end{tabular}
+	\caption{Benchmark table}
+	\label{2}
+\end{table}
+\end{frame}
 
-
+\begin{frame}{}
+\centering \Huge
+\emph{Thank You}
+\end{frame}
 %------------------------------------------------
 
 

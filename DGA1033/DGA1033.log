@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.7)  11 NOV 2018 02:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.7)  14 NOV 2018 16:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -939,10 +939,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <f1.jpg, id=181, 603.25375pt x 422.57875pt>
 File: f1.jpg Graphic file (type jpg)
  <use f1.jpg>
-Package pdftex.def Info: f1.jpg used on input line 165.
+Package pdftex.def Info: f1.jpg used on input line 172.
 (pdftex.def)             Requested size: 184.9429pt x 129.54724pt.
 
-Overfull \hbox (13.79526pt too wide) in paragraph at lines 165--165
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 172--172
 [][]  
  []
 
@@ -951,105 +951,136 @@ Overfull \hbox (13.79526pt too wide) in paragraph at lines 165--165
  <./f1.jpg>] <f21.jpg, id=208, 543.02875pt x 629.35126pt>
 File: f21.jpg Graphic file (type jpg)
  <use f21.jpg>
-Package pdftex.def Info: f21.jpg used on input line 190.
+Package pdftex.def Info: f21.jpg used on input line 197.
 (pdftex.def)             Requested size: 156.49014pt x 181.36441pt.
 
 [7
 
- <./f21.jpg>]
-Overfull \vbox (68.2889pt too high) detected at line 210
- []
-
-[8
+ <./f21.jpg>] [8
 
 ] <f9.jpeg, id=263, 563.10374pt x 417.56pt>
 File: f9.jpeg Graphic file (type jpg)
  <use f9.jpeg>
-Package pdftex.def Info: f9.jpeg used on input line 216.
+Package pdftex.def Info: f9.jpeg used on input line 223.
 (pdftex.def)             Requested size: 227.62204pt x 168.78592pt.
- [9
+
+[9
 
  <./f9.jpeg>]
-<f5.jpg, id=290, 595.22375pt x 272.01625pt>
-File: f5.jpg Graphic file (type jpg)
- <use f5.jpg>
-Package pdftex.def Info: f5.jpg used on input line 236.
-(pdftex.def)             Requested size: 184.9429pt x 84.51509pt.
-
-Overfull \hbox (12.33154pt too wide) detected at line 236
-[][][] [][][][][][][][][] [][][][][][][] 
+Overfull \hbox (34.95087pt too wide) in paragraph at lines 244--244
+ [] 
  []
 
 [10
 
- <./f5.jpg>] <01.png, id=317, 606.265pt x 262.9825pt>
-File: 01.png Graphic file (type png)
- <use 01.png>
-Package pdftex.def Info: 01.png used on input line 254.
-(pdftex.def)             Requested size: 273.83728pt x 118.78242pt.
+] <f5.jpg, id=317, 595.22375pt x 272.01625pt>
+File: f5.jpg Graphic file (type jpg)
+ <use f5.jpg>
+Package pdftex.def Info: f5.jpg used on input line 264.
+(pdftex.def)             Requested size: 184.9429pt x 84.51509pt.
 
-<02.png, id=319, 865.2325pt x 157.58875pt>
-File: 02.png Graphic file (type png)
- <use 02.png>
-Package pdftex.def Info: 02.png used on input line 254.
-(pdftex.def)             Requested size: 308.06367pt x 56.1091pt.
-
-<03.png, id=320, 428.60126pt x 88.33pt>
-File: 03.png Graphic file (type png)
- <use 03.png>
-Package pdftex.def Info: 03.png used on input line 254.
-(pdftex.def)             Requested size: 273.83728pt x 56.4353pt.
-
-Overfull \vbox (1.576pt too high) detected at line 254
+Overfull \hbox (12.33154pt too wide) detected at line 264
+[][][] [][][][][][][][][] [][][][][][][] 
  []
 
 [11
 
- <./01.png> <./02.png> <./03.png>]
-<f6.jpg, id=350, 603.25375pt x 352.31625pt>
-File: f6.jpg Graphic file (type jpg)
- <use f6.jpg>
-Package pdftex.def Info: f6.jpg used on input line 275.
-(pdftex.def)             Requested size: 184.9429pt x 108.00732pt.
+ <./f5.jpg>] <01.png, id=344, 606.265pt x 262.9825pt>
+File: 01.png Graphic file (type png)
+ <use 01.png>
+Package pdftex.def Info: 01.png used on input line 282.
+(pdftex.def)             Requested size: 273.83728pt x 118.78242pt.
 
-Overfull \hbox (46.55795pt too wide) detected at line 275
-[][][] [][][][][][][][][] [][][][][][][] 
+<02.png, id=346, 865.2325pt x 157.58875pt>
+File: 02.png Graphic file (type png)
+ <use 02.png>
+Package pdftex.def Info: 02.png used on input line 282.
+(pdftex.def)             Requested size: 308.06367pt x 56.1091pt.
+
+<03.png, id=347, 428.60126pt x 88.33pt>
+File: 03.png Graphic file (type png)
+ <use 03.png>
+Package pdftex.def Info: 03.png used on input line 282.
+(pdftex.def)             Requested size: 273.83728pt x 56.4353pt.
+
+Overfull \vbox (1.576pt too high) detected at line 282
  []
 
 [12
 
- <./f6.jpg>]
-Overfull \hbox (19.37747pt too wide) in paragraph at lines 294--294
- [] 
+ <./01.png> <./02.png> <./03.png>]
+<f6.jpg, id=378, 603.25375pt x 352.31625pt>
+File: f6.jpg Graphic file (type jpg)
+ <use f6.jpg>
+Package pdftex.def Info: f6.jpg used on input line 303.
+(pdftex.def)             Requested size: 184.9429pt x 108.00732pt.
+
+Overfull \hbox (46.55795pt too wide) detected at line 303
+[][][] [][][][][][][][][] [][][][][][][] 
  []
 
 [13
 
-] [14
+ <./f6.jpg>]
+Overfull \hbox (19.37747pt too wide) in paragraph at lines 322--322
+ [] 
+ []
 
-] <f3(1).jpg, id=435, 903.375pt x 455.7025pt>
+[14
+
+] [15
+
+] <f3(1).jpg, id=462, 903.375pt x 455.7025pt>
 File: f3(1).jpg Graphic file (type jpg)
  <use f3(1).jpg>
-Package pdftex.def Info: f3(1).jpg used on input line 333.
+Package pdftex.def Info: f3(1).jpg used on input line 361.
 (pdftex.def)             Requested size: 184.9429pt x 93.29445pt.
 
-Overfull \hbox (13.79526pt too wide) in paragraph at lines 333--333
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 361--361
 [][]  
  []
 
-[15
+[16
 
- <./f3(1).jpg>] [16
-
-] <f4.jpg, id=488, 637.38126pt x 208.78pt>
-File: f4.jpg Graphic file (type jpg)
- <use f4.jpg>
-Package pdftex.def Info: f4.jpg used on input line 368.
-(pdftex.def)             Requested size: 184.9429pt x 60.57968pt.
+ <./f3(1).jpg>] <11.png, id=490, 713.66624pt x 493.845pt>
+File: 11.png Graphic file (type png)
+ <use 11.png>
+Package pdftex.def Info: 11.png used on input line 369.
+(pdftex.def)             Requested size: 284.52756pt x 196.88644pt.
 
 [17
 
- <./f4.jpg>]
+ <./11.png>] <RL.jpg, id=518, 362.35374pt x 141.52875pt>
+File: RL.jpg Graphic file (type jpg)
+ <use RL.jpg>
+Package pdftex.def Info: RL.jpg used on input line 386.
+(pdftex.def)             Requested size: 184.9429pt x 72.237pt.
+
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 386--386
+[][]  
+ []
+
+[18
+
+ <./RL.jpg>] [19
+
+] <f4.jpg, id=572, 637.38126pt x 208.78pt>
+File: f4.jpg Graphic file (type jpg)
+ <use f4.jpg>
+Package pdftex.def Info: f4.jpg used on input line 423.
+(pdftex.def)             Requested size: 184.9429pt x 60.57968pt.
+
+Overfull \hbox (13.79526pt too wide) in paragraph at lines 423--423
+[][]  
+ []
+
+[20
+
+ <./f4.jpg>] [21
+
+] [22
+
+]
 \tf@nav=\write6
 \openout6 = `DGA1033.nav'.
 
@@ -1059,11 +1090,11 @@ Package pdftex.def Info: f4.jpg used on input line 368.
 \tf@snm=\write8
 \openout8 = `DGA1033.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 377.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 377.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
  (./DGA1033.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 377.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 377.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
 Package rerunfilecheck Info: File `DGA1033.out' has not changed.
 (rerunfilecheck)             Checksum: AD4AD64870312687BCADE24080629B69;140.
 
@@ -1071,16 +1102,16 @@ Package rerunfilecheck Info: File `DGA1033.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 377.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
  ) 
 Here is how much of TeX's memory you used:
- 16859 strings out of 494910
- 323077 string characters out of 6179836
- 388218 words of memory out of 5000000
- 19697 multiletter control sequences out of 15000+600000
- 13457 words of font info for 50 fonts, out of 8000000 for 9000
+ 16928 strings out of 494910
+ 324032 string characters out of 6179836
+ 389287 words of memory out of 5000000
+ 19750 multiletter control sequences out of 15000+600000
+ 16781 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 48i,16n,60p,408b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,16n,60p,408b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
@@ -1089,12 +1120,13 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb>
-Output written on DGA1033.pdf (17 pages, 525139 bytes).
+blic/amsfonts/cm/cmssi17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb>
+Output written on DGA1033.pdf (22 pages, 582318 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
- 500 compressed objects within 5 object streams
- 40 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 703 PDF objects out of 1000 (max. 8388607)
+ 633 compressed objects within 7 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
