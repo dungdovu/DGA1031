@@ -1,0 +1,227 @@
+\begin{thebibliography}{32}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Doe(1999{\natexlab{a}})Doe, J.]{class}
+Doe, J.
+\newblock (1999{\natexlab{a}}).
+\newblock ACRONYM: Class name.
+\newblock Institution.
+
+\bibitem[Doe(1999{\natexlab{b}})Doe, J.]{classURL}
+Doe, J.
+\newblock (1999{\natexlab{b}}).
+\newblock ACRONYM: Class name [Class notes].
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{c}})Doe, J.]{mastersthesis}
+Doe, J.
+\newblock (1999{\natexlab{c}}).
+\newblock \emph{The title of the thesis}.
+\newblock (\bibmaster,~School,~Address).
+
+\bibitem[Doe(1999{\natexlab{d}})Doe, J.]{mastersthesisDB}
+Doe, J.
+\newblock (1999{\natexlab{d}}).
+\newblock \emph{The title of the thesis}.
+\newblock (\bibmaster,~School,~Address).
+\newblock \biburlrep~Name of the database. (ID number).
+
+\bibitem[Doe(1999{\natexlab{e}})Doe, J.]{mastersthesisURL}
+Doe, J.
+\newblock (1999{\natexlab{e}}).
+\newblock \emph{The title of the thesis}.
+\newblock (\bibmaster,~School,~Address).
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{f}})Doe, J.]{online}
+Doe, J.
+\newblock (1999{\natexlab{f}},~October,~2).
+\newblock Web page title [Format].
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{g}})Doe, J.]{onlineDataset}
+Doe, J.
+\newblock (1999{\natexlab{g}}).
+\newblock Dataset title [Online dataset].
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{h}})Doe, J.]{onlineNick}
+Doe, J.
+\newblock [Nickname].
+\newblock (1999{\natexlab{h}},~October,~2).
+\newblock Web page title [Format].
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{i}})Doe, J.]{onlineVideo}
+Doe, J.
+\newblock [Nickname].
+\newblock (1999{\natexlab{i}},~October,~2).
+\newblock Video title [Youtube Video].
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe(1999{\natexlab{j}})Doe, J.]{patent}
+Doe, J.
+\newblock (1999{\natexlab{j}}).
+\newblock \emph{Patent type~n$^{\circ}$42}.
+\newblock  Location: organization.
+
+\bibitem[Doe(1999{\natexlab{k}})Doe, J.]{phdthesis}
+Doe, J.
+\newblock (1999{\natexlab{k}}).
+\newblock \emph{The title of the thesis}.
+\newblock (\bibphd,~School,~Address).
+
+\bibitem[Doe(1999{\natexlab{l}})Doe, J.]{rawData}
+Doe, J.
+\newblock (1999{\natexlab{l}}) [Short description of the contents].
+\newblock Unpublished raw data.
+
+\bibitem[Doe(1999{\natexlab{m}})Doe, J.]{software}
+Doe, J.
+\newblock (1999{\natexlab{m}}).
+\newblock Software name (Version 1.0) [Software].
+\newblock  Location: Publisher.
+
+\bibitem[Doe(1999{\natexlab{n}})Doe, J.]{techreport}
+Doe, J.
+\newblock (1999{\natexlab{n}}).
+\newblock \emph{The title of the report} (\bibrap~ n$^{\circ}$42).
+\newblock  Location: Publisher.
+
+\bibitem[Doe(1999{\natexlab{o}})Doe, J.]{unpublished}
+Doe, J.
+\newblock (1999{\natexlab{o}}).
+\newblock \emph{Document title}.
+\newblock Unpublished document, Institution, Location.
+
+\bibitem[Doe(1999{\natexlab{p}})Doe, J.]{unpublishedSubmitted}
+Doe, J.
+\newblock (1999{\natexlab{p}}).
+\newblock \emph{Document title}.
+\newblock Manuscript submitted for publication.
+
+\bibitem[Doe(1999{\natexlab{q}})Doe, J.]{unpublishedURL}
+Doe, J.
+\newblock (1999{\natexlab{q}}).
+\newblock \emph{Document title}.
+\newblock \biburlrep~\url{http://www.google.ca}.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{a}})Doe, J., Doe, J.~\&~Doe,
+  J.]{ArticleExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{a}}).
+\newblock Title of the article.
+\newblock \emph{Name of the journal}, 4(2), 220-242.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{b}})Doe, J., Doe, J.~\&~Doe,
+  J.]{ArticleExampleInPress}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{b}}).
+\newblock Title of the article.
+\newblock \emph{Name of the journal}.
+\newblock In press.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{c}})Doe, J., Doe, J.~\&~Doe,
+  J.]{BookExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{c}}).
+\newblock \emph{Title of the book} (\bibed.~3).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{d}})Doe, J., Doe, J.~\&~Doe,
+  J.]{BookExampleDOI}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{d}}).
+\newblock \emph{Title of the book} [Version].
+\newblock doi:~\detokenize{123-456-789}.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{e}})Doe, J., Doe, J.~\&~Doe,
+  J.]{BookExampleEditor}
+Doe, J., Doe, J.~\&~Doe, J. (\bibEd s.).
+\newblock (1999{\natexlab{e}}).
+\newblock \emph{Title of the book} (\bibed.~3).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{f}})Doe, J., Doe, J.~\&~Doe,
+  J.]{BookExampleURL}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{f}}).
+\newblock \emph{Title of the book} [Version].
+\newblock \biburlrep~\url{http://www.google.com}.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{g}})Doe, J., Doe, J.~\&~Doe,
+  J.]{EncyclopediaExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{g}}).
+\newblock Title of the entry.
+\newblock \bibin~\emph{Title of the encyclopedia}
+  (\bibed.~3,~vol.~4,~pp.~220-242).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{h}})Doe, J., Doe, J.~\&~Doe,
+  J.]{InBookExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{h}}).
+\newblock \bibin~Doe, J., Doe, J.~\&~Doe, J. (\bibEd s.),~\emph{Title of the
+  book} (\bibed.~3,~vol.~4,~ch.~7,~pp.~220-242).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{i}})Doe, J., Doe, J.~\&~Doe,
+  J.]{InCollectionExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{i}}).
+\newblock Title of the chapter.
+\newblock \bibin~Doe, J., Doe, J.~\&~Doe, J. (\bibEd s.),~\emph{Title of the
+  book} (\bibed.~3,~vol.~4,~pp.~220-242).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{j}})Doe, J., Doe, J.~\&~Doe,
+  J.]{InCollectionExample2}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{j}}).
+\newblock Title of the article.
+\newblock \bibin~Doe, J., Doe, J.~\&~Doe, J. (\bibEd s.),~\emph{Title of the
+  conference proceedings} (\bibed.~3,~vol.~4,~pp.~220-242).
+\newblock  Location: Publisher.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{k}})Doe, J., Doe, J.~\&~Doe,
+  J.]{InProceedingsComExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{k}},~October).
+\newblock \emph{Title of the article}.
+\newblock Communication~\bibpres~ Title of the conference proceedings,
+  Location~(pp.~ 220-242).
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{l}})Doe, J., Doe, J.~\&~Doe,
+  J.]{InProceedingsExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{l}}).
+\newblock Title of the article.
+\newblock \emph{Title of the conference proceedings}, 4(2), 220-242.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{m}})Doe, J., Doe, J.~\&~Doe,
+  J.]{MagasineExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{m}},~October).
+\newblock Title of the article.
+\newblock \emph{Title of the magasine}, 4(2), 220-242.
+
+\bibitem[Doe\emph{ et~al.}(1999{\natexlab{n}})Doe, J., Doe, J.~\&~Doe,
+  J.]{QuoExample}
+Doe, J., Doe, J.~\&~Doe, J.
+\newblock (1999{\natexlab{n}},~October).
+\newblock Title of the article.
+\newblock \emph{Title of the magasine}, pp.~220.
+
+\bibitem[Org(1999)]{norm}
+Organization name.
+\newblock (1999).
+\newblock \emph{Norm title}.
+\newblock Institution and norm number.
+\newblock  Location: Organization name.
+
+\end{thebibliography}
