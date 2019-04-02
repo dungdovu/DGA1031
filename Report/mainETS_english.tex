@@ -635,6 +635,7 @@ These properties will be used in the future to evaluate if the student’s respo
 		\code{keyword\_rate}          &  the rate of $\frac{keyword\_position}{length\_of\_hint}$  & &  &  \\ \cline{1-2}
 		\code{perplexity}          & the real value of perplexity of hint  & &  &  \\ \cline{1-2}
 		\code{ner\_in\_hint}          & name of entity recognition within the hint        & &  &  \\ \cline{1-2}
+			\code{score\_of\_hint}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of hints\\ based on sum of probability terms  by using language \\model based on RNN\end{tabular}       & &  &  \\
 	\end{tabular}
 	\caption{Table features of hints}
 	\label{tab:3}
@@ -719,9 +720,12 @@ On the other hand, Convolution neural networks (CNN) is good at learning the cha
 In addition to the text classification model based on CNN, as shown in Figure \ref{sentiment}, is the input layer, the convolution layer, the pool layer, and the output layer. Figure \ref{sentiment} text emotion classification model based on CNN The last layer of text sentiment based on CNN is the full connection layer. The input of this layer is the feature vector outputted from the pool layer, and the output of each category label classified according to the probability size. However, SVM the theory of  VC theory and the minimum structural risk. So SVM represents the data feature vectors in the feature space, classified hyperplane.  For linear,  SVM can map space through a kernel function, and then transform the linear non-separable problem into a separable problem.  That is,  CNN the characteristics of the invariance and SVM can find the optimal classification surface for the characteristics based on the given emoticon dictionary\footnote{https://emojipedia.org}. Hence, the opportunity for intervention is identified based on the serious of conversation and the debated problem. To give the right intervention, the system analysis students' questions and answers including the adaptable hints. In the question and answer analysis, we focus on analyzing and quantifying the relation with question and answer. We use bidirectional LSTM model to measure the relevance between them. Then, we use a feed-forward network with shared parameters to learn the relevance between question and answer. The output is a relevance score between question and answer, so it is the particular feature of identifying the adaptable hints. 
 
 
+\begin{comment}
+
 \chapter{Experimentation and Results}
 \section{Environment experiment}
 \subsection{Initial environment experiment}
+The Messenger Platform provides a set of REST APIs that give  the tools to create awesome Messenger experiences. From sending rich messages, to finding your existing customers on Messenger, to customizing your bot and more, our APIs are the primary way you will work with the Messenger Platform. Hence, our environment experiment is setup as the Figure \ref{env}.
 \begin{figure}
 	\includegraphics[width=0.6\textwidth]{Figures/ue1.png}
 	\caption{Environment experiment}
@@ -729,6 +733,7 @@ In addition to the text classification model based on CNN, as shown in Figure \r
 \end{figure}
 
 \section{Result}
+\end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % BIBLIOGRAPHY AND REFERENCES

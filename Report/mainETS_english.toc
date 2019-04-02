@@ -18,10 +18,6 @@
 \contentsline {section}{\numberline {3.1}Methodology for Sub-objective 1}{18}{section.28}% 
 \contentsline {section}{\numberline {3.2}Methodology for Sub-objective 2}{23}{section.40}% 
 \contentsline {section}{\numberline {3.3}Methodology for Sub-objective 3}{25}{section.43}% 
-\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Chapter\ 4}\hfil }\uppercase {Experimentation and Results }}}{31}{chapter.49}% 
-\contentsline {section}{\numberline {4.1}Environment experiment}{31}{section.50}% 
-\contentsline {subsection}{\numberline {4.1.1}Initial environment experiment}{31}{subsection.51}% 
-\contentsline {section}{\numberline {4.2}Result}{31}{section.53}% 
-\contentsline {chapter}{Appendices}{41}{section*.55}% 
-\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Appendix\ A}\hfil }\uppercase {Plan of researching }}}{43}{Appendix.56}% 
-\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Appendix\ B}\hfil }\uppercase {Evaluation Question Bank }}}{45}{Appendix.57}% 
+\contentsline {chapter}{Appendices}{39}{section*.50}% 
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Appendix\ A}\hfil }\uppercase {Plan of researching }}}{41}{Appendix.51}% 
+\contentsline {chapter}{{\hbox to\@tempdima {\uppercase {Appendix\ B}\hfil }\uppercase {Evaluation Question Bank }}}{43}{Appendix.52}% 

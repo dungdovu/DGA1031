@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  29 MAR 2019 23:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  31 MAR 2019 15:32
 entering extended mode
 **./mainETS_english.tex
 (mainETS_english.tex
@@ -1481,7 +1481,7 @@ h their
 ] [16
 
 ]
-<Figures/1.png, id=255, 875.27pt x 1076.02pt>
+<Figures/1.png, id=233, 875.27pt x 1076.02pt>
 File: Figures/1.png Graphic file (type png)
 <use Figures/1.png>
 Package pdftex.def Info: Figures/1.png  used on input line 203.
@@ -1499,13 +1499,13 @@ Chapter 2
 [11
 
 ]
-<Figures/se1.png, id=414, 410.53375pt x 378.41376pt>
+<Figures/se1.png, id=392, 410.53375pt x 378.41376pt>
 File: Figures/se1.png Graphic file (type png)
 <use Figures/se1.png>
 Package pdftex.def Info: Figures/se1.png  used on input line 439.
 (pdftex.def)             Requested size: 316.17987pt x 291.44301pt.
  [12 <./Figures/se1.png>]
-<Figures/2.png, id=420, 816.04875pt x 474.77374pt>
+<Figures/2.png, id=398, 816.04875pt x 474.77374pt>
 File: Figures/2.png Graphic file (type png)
 <use Figures/2.png>
 Package pdftex.def Info: Figures/2.png  used on input line 451.
@@ -1520,7 +1520,7 @@ File: Figures/2.png Graphic file (type png)
 Package pdftex.def Info: Figures/2.png  used on input line 541.
 (pdftex.def)             Requested size: 338.76563pt x 197.09262pt.
 [17]
-<Figures/23.png, id=444, 1060.96375pt x 718.685pt>
+<Figures/23.png, id=422, 1060.96375pt x 718.685pt>
 File: Figures/23.png Graphic file (type png)
 <use Figures/23.png>
 Package pdftex.def Info: Figures/23.png  used on input line 552.
@@ -1531,13 +1531,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 560.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 560.
-<Figures/cr.png, id=448, 373.395pt x 372.39125pt>
+<Figures/cr.png, id=426, 373.395pt x 372.39125pt>
 File: Figures/cr.png Graphic file (type png)
 <use Figures/cr.png>
 Package pdftex.def Info: Figures/cr.png  used on input line 563.
 (pdftex.def)             Requested size: 180.67224pt x 180.18336pt.
  [18 <./Figures/23.png>]
-<Figures/df1.png, id=459, 427.5975pt x 454.69875pt>
+<Figures/df1.png, id=437, 427.5975pt x 454.69875pt>
 File: Figures/df1.png Graphic file (type png)
 <use Figures/df1.png>
 Package pdftex.def Info: Figures/df1.png  used on input line 574.
@@ -1552,104 +1552,97 @@ Overfull \hbox (54.6984pt too wide) in paragraph at lines 584--605
  [][] 
  []
 
-<Figures/dc1.png, id=470, 370.38374pt x 332.24126pt>
+<Figures/dc1.png, id=448, 370.38374pt x 332.24126pt>
 File: Figures/dc1.png Graphic file (type png)
 <use Figures/dc1.png>
 Package pdftex.def Info: Figures/dc1.png  used on input line 609.
 (pdftex.def)             Requested size: 225.84375pt x 202.58574pt.
 [20 <./Figures/df1.png>]
-Overfull \hbox (13.65889pt too wide) in paragraph at lines 625--639
+Overfull \hbox (43.49016pt too wide) in paragraph at lines 625--640
  [][] 
  []
 
 [21 <./Figures/dc1.png>] [22]
-<Figures/ht2.png, id=489, 703.62875pt x 269.005pt>
+<Figures/ht2.png, id=467, 703.62875pt x 269.005pt>
 File: Figures/ht2.png Graphic file (type png)
 <use Figures/ht2.png>
-Package pdftex.def Info: Figures/ht2.png  used on input line 656.
+Package pdftex.def Info: Figures/ht2.png  used on input line 657.
 (pdftex.def)             Requested size: 406.51599pt x 155.41551pt.
-<Figures/32.png, id=491, 1141.26375pt x 785.93625pt>
+<Figures/32.png, id=469, 1141.26375pt x 785.93625pt>
 File: Figures/32.png Graphic file (type png)
 <use Figures/32.png>
-Package pdftex.def Info: Figures/32.png  used on input line 665.
+Package pdftex.def Info: Figures/32.png  used on input line 666.
 (pdftex.def)             Requested size: 406.51599pt x 279.95071pt.
  [23 <./Figures/ht2.png>]
-<Figures/dts.png, id=498, 348.30125pt x 325.215pt>
+<Figures/dts.png, id=476, 348.30125pt x 325.215pt>
 File: Figures/dts.png Graphic file (type png)
 <use Figures/dts.png>
-Package pdftex.def Info: Figures/dts.png  used on input line 674.
+Package pdftex.def Info: Figures/dts.png  used on input line 675.
 (pdftex.def)             Requested size: 180.67224pt x 168.69592pt.
- [24 <./Figures/32.png> <./Figures/dts.png>]
-<Figures/58.png, id=505, 955.57pt x 640.3925pt>
+ [24 <./Figures/32.png>]
+<Figures/58.png, id=482, 955.57pt x 640.3925pt>
 File: Figures/58.png Graphic file (type png)
 <use Figures/58.png>
-Package pdftex.def Info: Figures/58.png  used on input line 688.
+Package pdftex.def Info: Figures/58.png  used on input line 689.
 (pdftex.def)             Requested size: 316.17987pt x 211.88715pt.
- [25 <./Figures/58.png>]
-<Figures/st4.png, id=514, 430.60875pt x 534.99875pt>
+
+[25 <./Figures/dts.png> <./Figures/58.png>]
+<Figures/st4.png, id=492, 430.60875pt x 534.99875pt>
 File: Figures/st4.png Graphic file (type png)
 <use Figures/st4.png>
-Package pdftex.def Info: Figures/st4.png  used on input line 695.
+Package pdftex.def Info: Figures/st4.png  used on input line 696.
 (pdftex.def)             Requested size: 271.01524pt x 336.72446pt.
 
-Overfull \hbox (18.38605pt too wide) in paragraph at lines 700--709
+Overfull \hbox (18.38605pt too wide) in paragraph at lines 701--710
  [][] 
  []
 
 [26]
-<Figures/tsv.png, id=522, 408.52625pt x 429.605pt>
+<Figures/tsv.png, id=500, 408.52625pt x 429.605pt>
 File: Figures/tsv.png Graphic file (type png)
 <use Figures/tsv.png>
-Package pdftex.def Info: Figures/tsv.png  used on input line 715.
+Package pdftex.def Info: Figures/tsv.png  used on input line 716.
 (pdftex.def)             Requested size: 225.84375pt x 237.49619pt.
- [27 <./Figures/st4.png>] [28 <./Figures/tsv.png>] [29] [30
+ [27 <./Figures/st4.png>] Excluding 'comment' comment. [28 <./Figures/tsv.png>]
+ [29] [30
 
-]
-Chapter 4
-<Figures/ue1.png, id=547, 654.445pt x 164.615pt>
-File: Figures/ue1.png Graphic file (type png)
-<use Figures/ue1.png>
-Package pdftex.def Info: Figures/ue1.png  used on input line 726.
-(pdftex.def)             Requested size: 271.01524pt x 68.16826pt.
-[31 <./Figures/ue1.png>] [32
-
-] [33] [34] [35]
-Underfull \hbox (badness 2351) in paragraph at lines 870--871
+] [31] [32] [33]
+Underfull \hbox (badness 2351) in paragraph at lines 875--876
 []\T1/ptm/m/n/12 Pane, J. F., Grif-fin, B., Mc-Caf-frey, D. F., and Karam, R. (
 2014). Ef-fec-tive-
  []
 
-[36pdfTeX warning (ext4): destination with the same identifier (name{cite.Johns
+[34pdfTeX warning (ext4): destination with the same identifier (name{cite.Johns
 on2000}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.874 		\bibitem{Lane}
+l.879 		\bibitem{Lane}
                         K. L. Lane, H. M. Menzies, R. P. Ennis, and J. Bezde...
-] [37] [38pdfTeX warning (ext4): destination with the same identifier (name{cit
+] [35] [36pdfTeX warning (ext4): destination with the same identifier (name{cit
 e.Johnson}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.921 \bibitem{Myung}
+l.926 \bibitem{Myung}
                       Koh, Myung-Hwa \& Hill, Janette. (2009). Student perce...
-] Excluding 'comment' comment. [39] [40
+] Excluding 'comment' comment. [37] [38
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 951.
- [41
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 956.
+ [39
 
-] [42]
+] [40]
 Appendix A
 
 
 pdfTeX warning: pdflatex.exe (file ./plan.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<"plan".pdf, id=602, 794.97pt x 614.295pt>
+<"plan".pdf, id=570, 794.97pt x 614.295pt>
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf>
-Package pdftex.def Info: "plan".pdf  used on input line 953.
+Package pdftex.def Info: "plan".pdf  used on input line 958.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
 
 
@@ -1657,7 +1650,7 @@ pdfTeX warning: pdflatex.exe (file ./plan.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf>
-Package pdftex.def Info: "plan".pdf  used on input line 953.
+Package pdftex.def Info: "plan".pdf  used on input line 958.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
 
 
@@ -1667,40 +1660,40 @@ n <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./plan.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<"plan".pdf, id=605, page=1, 794.97pt x 614.295pt>
+<"plan".pdf, id=573, page=1, 794.97pt x 614.295pt>
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf, page 1>
-Package pdftex.def Info: "plan".pdf , page1 used on input line 953.
+Package pdftex.def Info: "plan".pdf , page1 used on input line 958.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf, page 1>
-Package pdftex.def Info: "plan".pdf , page1 used on input line 953.
+Package pdftex.def Info: "plan".pdf , page1 used on input line 958.
 (pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
-[43
+[41
 
 ]
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf, page 1>
-Package pdftex.def Info: "plan".pdf , page1 used on input line 953.
+Package pdftex.def Info: "plan".pdf , page1 used on input line 958.
 (pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf, page 1>
-Package pdftex.def Info: "plan".pdf , page1 used on input line 953.
+Package pdftex.def Info: "plan".pdf , page1 used on input line 958.
 (pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
 File: "plan".pdf Graphic file (type pdf)
 <use "plan".pdf, page 1>
-Package pdftex.def Info: "plan".pdf , page1 used on input line 953.
+Package pdftex.def Info: "plan".pdf , page1 used on input line 958.
 (pdftex.def)             Requested size: 615.04005pt x 475.25821pt.
- [44 <./plan.pdf>]
+ [42 <./plan.pdf>]
 Appendix B
 
 
 pdfTeX warning: pdflatex.exe (file ./4.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"4".pdf, id=652, 614.295pt x 794.97pt>
+<"4".pdf, id=620, 614.295pt x 794.97pt>
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf>
-Package pdftex.def Info: "4".pdf  used on input line 956.
+Package pdftex.def Info: "4".pdf  used on input line 961.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1708,7 +1701,7 @@ pdfTeX warning: pdflatex.exe (file ./4.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf>
-Package pdftex.def Info: "4".pdf  used on input line 956.
+Package pdftex.def Info: "4".pdf  used on input line 961.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1718,38 +1711,38 @@ pdfTeX warning: pdflatex.exe (file ./4.pdf): PDF inclusion: found PDF version <
 
 pdfTeX warning: pdflatex.exe (file ./4.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"4".pdf, id=655, page=1, 614.295pt x 794.97pt>
+<"4".pdf, id=623, page=1, 614.295pt x 794.97pt>
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf, page 1>
-Package pdftex.def Info: "4".pdf , page1 used on input line 956.
+Package pdftex.def Info: "4".pdf , page1 used on input line 961.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf, page 1>
-Package pdftex.def Info: "4".pdf , page1 used on input line 956.
+Package pdftex.def Info: "4".pdf , page1 used on input line 961.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[45
+[43
 
 ]
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf, page 1>
-Package pdftex.def Info: "4".pdf , page1 used on input line 956.
+Package pdftex.def Info: "4".pdf , page1 used on input line 961.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf, page 1>
-Package pdftex.def Info: "4".pdf , page1 used on input line 956.
+Package pdftex.def Info: "4".pdf , page1 used on input line 961.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "4".pdf Graphic file (type pdf)
 <use "4".pdf, page 1>
-Package pdftex.def Info: "4".pdf , page1 used on input line 956.
+Package pdftex.def Info: "4".pdf , page1 used on input line 961.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [46 <./4.pdf>]
+ [44 <./4.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./1.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"1".pdf, id=667, 614.295pt x 794.97pt>
+<"1".pdf, id=634, 614.295pt x 794.97pt>
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf>
-Package pdftex.def Info: "1".pdf  used on input line 957.
+Package pdftex.def Info: "1".pdf  used on input line 962.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1757,7 +1750,7 @@ pdfTeX warning: pdflatex.exe (file ./1.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf>
-Package pdftex.def Info: "1".pdf  used on input line 957.
+Package pdftex.def Info: "1".pdf  used on input line 962.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1767,35 +1760,35 @@ pdfTeX warning: pdflatex.exe (file ./1.pdf): PDF inclusion: found PDF version <
 
 pdfTeX warning: pdflatex.exe (file ./1.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"1".pdf, id=670, page=1, 614.295pt x 794.97pt>
+<"1".pdf, id=637, page=1, 614.295pt x 794.97pt>
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf, page 1>
-Package pdftex.def Info: "1".pdf , page1 used on input line 957.
+Package pdftex.def Info: "1".pdf , page1 used on input line 962.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf, page 1>
-Package pdftex.def Info: "1".pdf , page1 used on input line 957.
+Package pdftex.def Info: "1".pdf , page1 used on input line 962.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf, page 1>
-Package pdftex.def Info: "1".pdf , page1 used on input line 957.
+Package pdftex.def Info: "1".pdf , page1 used on input line 962.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf, page 1>
-Package pdftex.def Info: "1".pdf , page1 used on input line 957.
+Package pdftex.def Info: "1".pdf , page1 used on input line 962.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "1".pdf Graphic file (type pdf)
 <use "1".pdf, page 1>
-Package pdftex.def Info: "1".pdf , page1 used on input line 957.
+Package pdftex.def Info: "1".pdf , page1 used on input line 962.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[47 <./1.pdf>]
+[45 <./1.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./2.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"2".pdf, id=676, 614.295pt x 794.97pt>
+<"2".pdf, id=644, 614.295pt x 794.97pt>
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf>
-Package pdftex.def Info: "2".pdf  used on input line 958.
+Package pdftex.def Info: "2".pdf  used on input line 963.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1803,7 +1796,7 @@ pdfTeX warning: pdflatex.exe (file ./2.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf>
-Package pdftex.def Info: "2".pdf  used on input line 958.
+Package pdftex.def Info: "2".pdf  used on input line 963.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1813,35 +1806,35 @@ pdfTeX warning: pdflatex.exe (file ./2.pdf): PDF inclusion: found PDF version <
 
 pdfTeX warning: pdflatex.exe (file ./2.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"2".pdf, id=679, page=1, 614.295pt x 794.97pt>
+<"2".pdf, id=647, page=1, 614.295pt x 794.97pt>
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf, page 1>
-Package pdftex.def Info: "2".pdf , page1 used on input line 958.
+Package pdftex.def Info: "2".pdf , page1 used on input line 963.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf, page 1>
-Package pdftex.def Info: "2".pdf , page1 used on input line 958.
+Package pdftex.def Info: "2".pdf , page1 used on input line 963.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf, page 1>
-Package pdftex.def Info: "2".pdf , page1 used on input line 958.
+Package pdftex.def Info: "2".pdf , page1 used on input line 963.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf, page 1>
-Package pdftex.def Info: "2".pdf , page1 used on input line 958.
+Package pdftex.def Info: "2".pdf , page1 used on input line 963.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "2".pdf Graphic file (type pdf)
 <use "2".pdf, page 1>
-Package pdftex.def Info: "2".pdf , page1 used on input line 958.
+Package pdftex.def Info: "2".pdf , page1 used on input line 963.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[48 <./2.pdf>]
+[46 <./2.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./3.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"3".pdf, id=685, 614.295pt x 794.97pt>
+<"3".pdf, id=653, 614.295pt x 794.97pt>
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf>
-Package pdftex.def Info: "3".pdf  used on input line 959.
+Package pdftex.def Info: "3".pdf  used on input line 964.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1849,7 +1842,7 @@ pdfTeX warning: pdflatex.exe (file ./3.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf>
-Package pdftex.def Info: "3".pdf  used on input line 959.
+Package pdftex.def Info: "3".pdf  used on input line 964.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1859,35 +1852,35 @@ pdfTeX warning: pdflatex.exe (file ./3.pdf): PDF inclusion: found PDF version <
 
 pdfTeX warning: pdflatex.exe (file ./3.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"3".pdf, id=688, page=1, 614.295pt x 794.97pt>
+<"3".pdf, id=656, page=1, 614.295pt x 794.97pt>
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf, page 1>
-Package pdftex.def Info: "3".pdf , page1 used on input line 959.
+Package pdftex.def Info: "3".pdf , page1 used on input line 964.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf, page 1>
-Package pdftex.def Info: "3".pdf , page1 used on input line 959.
+Package pdftex.def Info: "3".pdf , page1 used on input line 964.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf, page 1>
-Package pdftex.def Info: "3".pdf , page1 used on input line 959.
+Package pdftex.def Info: "3".pdf , page1 used on input line 964.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf, page 1>
-Package pdftex.def Info: "3".pdf , page1 used on input line 959.
+Package pdftex.def Info: "3".pdf , page1 used on input line 964.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "3".pdf Graphic file (type pdf)
 <use "3".pdf, page 1>
-Package pdftex.def Info: "3".pdf , page1 used on input line 959.
+Package pdftex.def Info: "3".pdf , page1 used on input line 964.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[49 <./3.pdf>]
+[47 <./3.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./5.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"5".pdf, id=694, 614.295pt x 794.97pt>
+<"5".pdf, id=662, 614.295pt x 794.97pt>
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf>
-Package pdftex.def Info: "5".pdf  used on input line 961.
+Package pdftex.def Info: "5".pdf  used on input line 966.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1895,7 +1888,7 @@ pdfTeX warning: pdflatex.exe (file ./5.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf>
-Package pdftex.def Info: "5".pdf  used on input line 961.
+Package pdftex.def Info: "5".pdf  used on input line 966.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1905,40 +1898,40 @@ pdfTeX warning: pdflatex.exe (file ./5.pdf): PDF inclusion: found PDF version <
 
 pdfTeX warning: pdflatex.exe (file ./5.pdf): PDF inclusion: found PDF version <
 1.7>, but at most version <1.5> allowed
-<"5".pdf, id=697, page=1, 614.295pt x 794.97pt>
+<"5".pdf, id=665, page=1, 614.295pt x 794.97pt>
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf, page 1>
-Package pdftex.def Info: "5".pdf , page1 used on input line 961.
+Package pdftex.def Info: "5".pdf , page1 used on input line 966.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf, page 1>
-Package pdftex.def Info: "5".pdf , page1 used on input line 961.
+Package pdftex.def Info: "5".pdf , page1 used on input line 966.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf, page 1>
-Package pdftex.def Info: "5".pdf , page1 used on input line 961.
+Package pdftex.def Info: "5".pdf , page1 used on input line 966.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf, page 1>
-Package pdftex.def Info: "5".pdf , page1 used on input line 961.
+Package pdftex.def Info: "5".pdf , page1 used on input line 966.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
 File: "5".pdf Graphic file (type pdf)
 <use "5".pdf, page 1>
-Package pdftex.def Info: "5".pdf , page1 used on input line 961.
+Package pdftex.def Info: "5".pdf , page1 used on input line 966.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-[50 <./5.pdf>]
+[48 <./5.pdf>]
 
 Package natbib Warning: There were multiply defined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 968.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 968.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 973.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 973.
 (mainETS_english.aux
 
 Package natbib Warning: Citation(s) may have changed.
 (natbib)                Rerun to get citations correct.
 
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 968.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 973.
 
 
  *File List*
@@ -2100,7 +2093,6 @@ Figures/dts.png
 Figures/58.png
 Figures/st4.png
 Figures/tsv.png
-Figures/ue1.png
   "plan".pdf    Graphic file (type pdf)
   "plan".pdf    Graphic file (type pdf)
   "plan".pdf    Graphic file (type pdf)
@@ -2127,15 +2119,15 @@ Figures/ue1.png
      "5".pdf    Graphic file (type pdf)
  ***********
 
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 968.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 973.
 Package rerunfilecheck Info: File `mainETS_english.out' has not changed.
-(rerunfilecheck)             Checksum: 9D497D8EB1083B3E62D2AE21703E0505;2070.
+(rerunfilecheck)             Checksum: 29627E0C9FA0BE7ABD636398914EA6ED;1793.
  ) 
 Here is how much of TeX's memory you used:
- 35282 strings out of 492946
- 666602 string characters out of 3126266
- 839499 words of memory out of 3000000
- 38435 multiletter control sequences out of 15000+200000
+ 35264 strings out of 492946
+ 666375 string characters out of 3126266
+ 839442 words of memory out of 3000000
+ 38425 multiletter control sequences out of 15000+200000
  580541 words of font info for 97 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,67p,3168b,547s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2145,9 +2137,9 @@ Here is how much of TeX's memory you used:
 utmb8a.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on mainETS_english.pdf (66 pages, 1611201 bytes).
+Output written on mainETS_english.pdf (64 pages, 1596718 bytes).
 PDF statistics:
- 760 PDF objects out of 1000 (max. 8388607)
- 181 named destinations out of 1000 (max. 500000)
- 411 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 725 PDF objects out of 1000 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
