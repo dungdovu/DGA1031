@@ -8,7 +8,7 @@
 \usepackage{svg}
 
 \usepackage{graphicx}
-
+\newcommand{\code}[1]{{\texttt{#1}}}
 \usepackage{verbatim}
 \usepackage{xspace}
 %\usetheme{default}
@@ -44,7 +44,7 @@
 % changes the colors of your current slide theme.
 \usepackage{hyperref}
 
-
+\usepackage{xcolor}
 %\usecolortheme{albatross}
 %\usecolortheme{beaver}
 %\usecolortheme{beetle}
@@ -131,7 +131,7 @@ Département de génie logiciel et des TI \\ % Your institution for the title pa
 \begin{columns}
 	\begin{column}{.45\textwidth}
 		\begin{figure}
-			\includegraphics[width=45mm]{1.png}
+			\includegraphics[width=45mm]{ht1s.png}
 		\end{figure}
 \begin{center}
 	{\tiny 		\textbf{The time life of Intelligent Tutor System (ITS)}}
@@ -206,7 +206,7 @@ International Journal of Artificial Intelligence in Education, 26, 124–132
 \end{thebibliography}
 \end{frame}
 \begin{frame}
-\frametitle{Problem statement}
+\frametitle{Problem statement | Context}
 The seven most commonly in Online Learning found in the literature are the following\footnote{{\tiny Jianxia Du, Chuang Wang, Mingming Zhou, Jianzhong Xu, Xitao Fan \& Saosan Lei (2018) Group trust, communication media, and interactivity: toward an integrated model of online collaborative learning, Interactive Learning Environments, 26:2, 273-286,}
 }:
 {\footnotesize \begin{itemize}
@@ -224,11 +224,11 @@ The seven most commonly in Online Learning found in the literature are the follo
 \end{frame}
 
 \begin{frame}
-\frametitle{Problem statement}
+\frametitle{Problem statement|Context}
 Most of these problems above of online group learning are inter-related
 
 		\begin{figure}
-			\includegraphics[width=45mm]{p1.png}
+			\includegraphics[width=45mm]{p21.png}
 		\end{figure}
 
 
@@ -240,12 +240,12 @@ Most of these problems above of online group learning are inter-related
 \end{frame}
 
 \begin{frame}
-\frametitle{Problem statement}
+\frametitle{Problem statement| Main problem}
 
 \begin{columns}
 	\begin{column}{.55\textwidth}
 	\begin{figure}
-		\includegraphics[width=45mm]{p2.png}
+		\includegraphics[width=45mm]{p22.png}
 	\end{figure}
 	\end{column}
 \begin{column}{.55\textwidth}
@@ -274,6 +274,7 @@ $\rightarrow$	We want to solve the problem of conflict students with the teamwor
 
 
 \begin{frame}
+\frametitle{Problem statement|Scenario}
 \begin{columns}[onlytextwidth]
 	\begin{column}{.45\textwidth}
 		\begin{figure}
@@ -286,21 +287,31 @@ $\rightarrow$	We want to solve the problem of conflict students with the teamwor
 	\begin{column}{.45\textwidth}
 		\begin{figure}
 			\includegraphics[width=.8\textwidth]{pp2}
-					\caption{Original ITS}
-{\tiny 					Source: DOI: 10.1109/KSE.2015.9}
+					\caption{Original ITS [*]}
+
 					
 		\end{figure}
+	
 	\end{column}
+
 \end{columns}
+\begin{flushright}
+	
+\end{flushright}
+{\tiny 					[*] N. T-Nghe and L. S-Thieme, "Multi-Relational Factorization Models for Student Modeling in Intelligent Tutoring Systems",  17th International Conference on Knowledge and Systems Engineering (KSE) 2015
+}
+\end{frame}
+\begin{frame}
+\frametitle{Problem statement| Scenario}
 \begin{center}
 	
 \end{center}
-\textbf{MediatorBot} generates the hints, identifies the debated problem, the opportunities for intervention, and answers the related topic question of students to encourage the users to collaborate more effectively in the online group learning with low price in the specific-domain
+\textcolor{blue}{\textbf{MediatorBot} generates the hints, identifies the debated problem, the opportunities for intervention, and answers the related topic question of students to encourage the users to collaborate more effectively in the online group learning with low price in the specific-domain}
 \end{frame}
 \begin{frame}
 
 
-\frametitle{Problem statement}
+\frametitle{Problem statement| Scenario}
 
 
 	   \begin{columns}[t]
@@ -375,7 +386,7 @@ $\rightarrow$	We want to solve the problem of conflict students with the teamwor
 	\begin{column}{.55\textwidth}
 		\begin{itemize}
 			\item Future state-of-the-art interventions with low price for intelligent tutor system
-			\item Encourage group student online working
+			\item Encourage student collaboration online
 			\item Easily scalable 
 		
 			
@@ -389,7 +400,7 @@ $\rightarrow$	We want to solve the problem of conflict students with the teamwor
 %------------------------------------------------
 \begin{frame}
 \frametitle{Objectives}
-{\large \textcolor{blue}{\textbf{Main objective:}}} Propose a smart Mediator to support constructive discussion based on the Dialogue system:
+{\large \textcolor{blue}{\textbf{Main objective:}}} Propose a smart Mediator to support constructive discussion based on the Intelligent Tutor System:
 
 \begin{itemize}
 	\item Generate hints to help users solve the topic or problem automatically
@@ -412,8 +423,8 @@ $\rightarrow$	We want to solve the problem of conflict students with the teamwor
 \end{frame}
 \begin{frame}
 \par 	\textbf{(1)  Generate hints to help users solve the topic or problem automatically}
-\par \textcolor{gray}{(2) Identify the debated or clarify the problem }
-\par (3) \textcolor{gray}{ Intervene in the conversation to clarify the problem: identify the opportunities for intervention, answer the related topic question of users }
+\par \textcolor{gray}{(2) Identify the debated problem }
+\par (3) \textcolor{gray}{ Intervene in the conversation to clarify the problem }
 \end{frame}
 
 \begin{frame}
@@ -481,7 +492,7 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 		\begin{itemize}
 			\item Extract the features $\leftarrow$ score table
 			\item Save the score table to the definition dataset
-			\item Classify the p/n definition based on supervised learning algorithm
+			\item Classify the G/NG definition based on supervised learning algorithm
 			\item Save the classification model
 		\end{itemize}
 	
@@ -492,6 +503,44 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 	
 	
 \end{columns}
+\end{frame}
+\begin{frame}
+\frametitle{Objective 1 | Methodology | B. Definition processing | Definition classification}
+{\tiny \begin{table}[]
+	\begin{tabular}{|l|l|lll}
+		\cline{1-2}
+		\textbf{Features}             & \textbf{Summary}              &  &  &  \\ \cline{1-2}
+		\code{length\_of\_keyword}  & the number words in the keyword    &  &  &  \\ \cline{1-2}
+		\code{length\_of\_description} & the number words in the description &  &  &  \\ \cline{1-2}
+		\code{score\_keyword}          & inverse document frequency of keyword          & &  &  \\ \cline{1-2}
+		\code{score\_description}          & inverse document frequency of concepts description          & &  &  \\ \cline{1-2}
+		
+		\code{ner\_in\_description}          & name of entity recognition within the description        & &  &  \\ \cline{1-2}
+		
+		
+		\code{coreference\_in\_description}          & compute the coreference resolution score         & &  &  \\ \cline{1-2}
+		
+		\code{type\_of\_word}          & recognize type of word (verb, noun, etc.,)        & &  &  \\ \cline{1-2}
+		
+		\code{non\_of\_word}          & recognize the none of word (symbol, number, etc.,)        & &  &  \\ \cline{1-2}
+		\code{pronouns\_rate}          &  the rate of $\frac{pronouns}{nouns}$  & &  &  \\ \cline{1-2}
+		\code{keyword\_rate}          &  the rate of $\frac{keyword\_position}{length\_of\_description}$  & &  &  \\ \cline{1-2}
+		\code{perplexity}          & the real value of perplexity of desciption  & &  &  \\\cline{1-2}
+		\code{likelihood\_score}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of description\\ based on sum of probability term by using language \\model based on RNN \end{tabular} & &  &  \\ \cline{1-2}
+	\end{tabular}
+	\caption{Features of definition}
+\end{table}}
+\end{frame}
+\begin{frame}
+\frametitle{Objective 1 | Methodology | B. Definition processing | Definition classification| Example}
+{\tiny \begin{table}[]
+		\begin{tabular}{|l|l|l|l|l|l|l|}
+			\hline
+			key & definitnion & label & \begin{tabular}[c]{@{}l@{}}score\\ keyword\end{tabular} & \begin{tabular}[c]{@{}l@{}}score\\ definition\end{tabular} & ... & \begin{tabular}[c]{@{}l@{}}likelihood\\ score \\ definitnion\end{tabular} \\ \hline
+			\begin{tabular}[c]{@{}l@{}}Linear\\   regression\end{tabular}   & \begin{tabular}[c]{@{}l@{}}In statistics, linear   regression \\is a linear approach to \\ modelling the relationship between a \\scalar response (or dependent variable)\\  and one or more explanatory\\ variables  (or independent variables).\end{tabular}              & Positive      & 14.58                                                        & 130.53                                                                     & ...                & 10.64                                                                                     \\ \hline
+		\begin{tabular}[c]{@{}l@{}}linear \\regression\\   models\end{tabular}	&  \begin{tabular}[c]{@{}l@{}}The numerical methods for  \\linear least squares are\\ important because linear regression\\ models are among   the\\ most important types of\\ model, both as formal statistical\\ models and   exploration of data-sets.\end{tabular}            &     Negative   &  20.78                                                                 &                                   146.77                                     &   ...  &                         10.49                                                               \\ \hline
+		\end{tabular}
+\end{table}}
 \end{frame}
 \begin{frame}
 \frametitle{Objective 1 | Methodology | C. Hint generation}
@@ -533,6 +582,51 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 \begin{frame}
 \frametitle{Objective 1 | Methodology | C. Hint generation| Hint generator}
 	\includegraphics[width=90mm]{ht2.png}
+\end{frame}
+\begin{frame}
+\frametitle{Objective 1 | Methodology | C. Hint generation| Hint generator| Construct hints}
+* The hints are phrased in the form of "Think about X" or "Consider X" where X is the part of expectation answer. \\
+* Using Linear regression model based on the features: 
+{\tiny \begin{table}[]
+	\begin{tabular}{|l|l|lll}
+		\cline{1-2}
+		\textbf{Features}             & \textbf{Summary}              &  &  &  \\ \cline{1-2}
+		\code{length\_of\_hint}  & the number words in the hint     &  &  &  \\ \cline{1-2}
+		\code{overlap\_question\_hint} & the rate of overlap between question and hint &  &  &  \\ \cline{1-2}
+		\code{score\_keyterm}          & inverse document frequency of keyterm in hint          & &  &  \\ \cline{1-2}
+		\code{keyhint\_keyquestion\_ratio}          & the ratio of $\frac{number\_of\_keyhint}{number\_of\_keyquestion}$     &  &  &  \\ \cline{1-2}
+		\code{topic\_overlap}          & content overlap between the question and hint     &  &  &  \\ \cline{1-2}
+		
+		\code{pronouns\_rate}          &  the rate of $\frac{pronouns}{nouns}$ in hint  & &  &  \\ \cline{1-2}
+		\code{keyword\_rate}          &  the rate of $\frac{keyword\_position}{length\_of\_hint}$  & &  &  \\ \cline{1-2}
+		\code{perplexity}          & the real value of perplexity of hint  & &  &  \\ \cline{1-2}
+		\code{ner\_in\_hint}          & name of entity recognition within the hint        & &  &  \\
+		 \cline{1-2}
+		 	\code{score\_of\_hint}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of hints\\ based on sum of probability terms  by using language \\model based on RNN\end{tabular}       & &  &  \\
+		 		 \cline{1-2}
+	\end{tabular}
+	\caption{Features of hints}
+	\label{tab:3}
+\end{table}}
+
+\end{frame}
+\begin{frame}
+\frametitle{Objective 1 | Methodology | C. Hint generation| Hint generator| Construct hints| Example}
+
+
+{\tiny \textbf{Question:\\}
+\colorbox{green!30}{\begin{tabular}[c]{@{}l@{}}You are given a dataset of images of wildlife in Africa.\\ You are tasked with building a model which can identify animals in the images. \\
+Is this a regression or classification problem? Explain why?\end{tabular}    }}\\
+{\tiny \textbf{Hints:}}
+{\tiny \begin{itemize}
+	\item Recall that each animal is a class.
+	\item Recall that each animal is a discrete class.
+	\item Consider that each animal is a separate class.
+	\item Consider that we are choosing between a set of categories.
+	\item Think about the following: we are choosing between discrete-valued output variables.
+	\item Consider that each image can contain several animals, and therefore the model must predict the existence of each type of animal.
+	
+\end{itemize}}
 \end{frame}
 \begin{comment}
 \begin{frame}
@@ -634,15 +728,15 @@ $\rightarrow$ Identify opportunity of intervention
 
 \begin{frame}
 \par 	\textcolor{gray}{(1)  Generate hints to help users solve the topic or problem automatically}
-\par \textbf{(2) Identify the debated or clarify the problem }
-\par (3) \textcolor{gray}{ Intervene in the conversation to clarify the problem: identify the opportunities for intervention, answer the related topic question of users }
+\par \textbf{(2) Identify the debated  problem }
+\par (3) \textcolor{gray}{ Intervene in the conversation to clarify the problem }
 \end{frame}
 \begin{frame}
 \frametitle{Objective 2 | Structure}
 
-Identify the debated or clarify the problem
+
 \begin{center}
-	\includegraphics[width=70mm]{32.png}
+	\includegraphics[width=80mm]{32.png}
 \end{center}
 
 \end{frame}
@@ -665,7 +759,7 @@ Identify the debated or clarify the problem
 
 \end{columns}
 \begin{flushleft}
-	E.g., consider the technical conversation of AI-Educate\footnote{https://lilabot.com/}
+{\small 	E.g., For slack, hangout, messenger dataset we consider the technical conversation of AI-Educate}\footnote{https://lilabot.com/}
 \end{flushleft}
 
 \end{frame}
@@ -673,12 +767,13 @@ Identify the debated or clarify the problem
 
 \begin{frame}
 \frametitle{Objective 2 | Methodology}
-\textbf{(4) Association rules}\footnote{https://www.saedsayad.com/association\_rules.htm}: find the interesting association or correlation relationship between dominant words \\
+\textbf{(4) Association rules [*]}: find the interesting association or correlation relationship between dominant words \\
 
 
 \begin{columns}
 	\begin{column}{.55\textwidth}
-		\includegraphics[width=50mm]{AR_1.png}
+		\includegraphics[width=50mm]{AR_1.png}\\
+{\tiny 	[*] A. Alamsyah, M. Paryasto, F. J. Putra, R. Himmawan, "Network text analysis to summarize online converstations for marketing intelligence efforts in telecommunication industry", in 2016 ICoICT}
 	\end{column}
 	\begin{column}{.55\textwidth}
 	\begin{itemize}
@@ -701,12 +796,12 @@ Identify the debated or clarify the problem
 \begin{frame}
 \frametitle{Objective 2 | Methodology}
 \begin{columns}
-	\begin{column}{.45\textwidth}
-		\includegraphics[width=50mm]{tn.png}\\
-	{\tiny 	source: http://www.redotheweb.com/}
+	\begin{column}{.35\textwidth}
+		\includegraphics[width=40mm]{nw.png}\\
+{\scriptsize 	\textbf{An example of text network}}
 	\end{column}
 
-	\begin{column}{.65\textwidth}
+	\begin{column}{.60\textwidth}
 (\textbf{5) Construct network text of dominant word}: include weighted edge result for association rule processes\\
 \textbf{(6) Network analysis:} create context, keyword, and sense from network text\\
 $\rightarrow$ employ centrality to find the most influential words in the networks and modularity to find words cluster/ groups in the network \\
@@ -903,7 +998,7 @@ $\leftarrow$ E.g., extract definitions from wikipedia
 
 \begin{frame}
 \par 	\textcolor{gray}{(1)  Generate hints to help users solve the topic or problem automatically}
-\par \textcolor{gray}{Identify the debated or clarify the problem }
+\par \textcolor{gray}{(2) Identify the debated  problem }
 \par (3) \textbf{ Intervene in the conversation to clarify the problem }
 \end{frame}
 \begin{frame}
@@ -925,7 +1020,7 @@ $\leftarrow$ E.g., extract definitions from wikipedia
 	
 	\begin{column}{.5\textwidth}
 \begin{figure}
-	\includegraphics[width=50mm]{st4.png}	
+	\includegraphics[width=48mm]{st5.png}	
 	
 \end{figure}
 \end{column}
@@ -957,7 +1052,7 @@ Programming Language", KTH ROYAL INSTITUTE OF TECHNOLOGY}
 	
 	\end{column}
 	\begin{column}{.55\textwidth}
-		\includegraphics[width=50mm]{tsv.png}	
+		\includegraphics[width=50mm]{tsv3.png}	
 	\end{column}
 	
 \end{columns}
@@ -971,7 +1066,7 @@ Because this is the conversation between Human and machine, so we prefer to use 
 \end{frame}
 
 \begin{frame}
-\frametitle{User experience | Approach }
+\frametitle{Evaluation | Approach }
 
 
 \begin{columns}[onlytextwidth]
@@ -1006,9 +1101,9 @@ Because this is the conversation between Human and machine, so we prefer to use 
 \end{frame}
 
 \begin{frame}
-\frametitle{User experience | Environment}
+\frametitle{Evaluation | Environment}
 \begin{figure}
-	\includegraphics[width=\textwidth]{ue1.png}
+	\includegraphics[width=.8\textwidth]{ue1.png}
 \end{figure}
 \begin{itemize}
 	\item {\scriptsize (1) Use the Facebook messenger API to set up the conversation environment}
@@ -1031,7 +1126,7 @@ Because this is the conversation between Human and machine, so we prefer to use 
 (2) Directly apply the results to LILA and Korbit systems at Ai-educate Inc \\
 
 \url{https://lilabot.com/} \\
-\url{https://www.youtube.com/watch?v=MP0et2zE87I&feature=youtu.be}
+
 \begin{center}
 	
 \end{center}
@@ -1039,6 +1134,22 @@ Because this is the conversation between Human and machine, so we prefer to use 
 
 
 
+\end{frame}
+\begin{frame}
+\frametitle{Achievements}
++ Experiment setup: graduate and undergraduate students from McGill COMP-551 from 6/2/2019 - 8/2/2019
+
+{\scriptsize \begin{table}[]
+	\begin{tabular}{|l|l|l|}
+		\hline
+		& \begin{tabular}[c]{@{}l@{}}Human-Generated\\  Hints\end{tabular} & \begin{tabular}[c]{@{}l@{}}Machine-Generated \\ Hints\end{tabular} \\ \hline
+		Sessions (Users)                                                                                                                                                    & {\color[HTML]{333333} 36}                                        & {\color[HTML]{333333} 36}                                          \\ \hline
+		\begin{tabular}[c]{@{}l@{}}Number of times text-based hint \\ was shown (including the times it\\  was shown after the user clicked \\ “I don’t know”)\end{tabular} & 30 (100\%)                                                       & 19 (100\%)                                                         \\ \hline
+		\begin{tabular}[c]{@{}l@{}}Number of times users improved \\ their next solution attempt after \\ hint was shown\end{tabular}                                       & 8 (26.67\%)                                                      & \textbf{8 (42.11\%)                                                      }  \\ \hline
+		\begin{tabular}[c]{@{}l@{}}Number of times users gave a \\ “CORRECT” next solution attempt \\ after hint was shown\end{tabular}                                     & 5 (16.67\%)                                                      & \textbf{6 (31.58\%)                                                        }\\ \hline
+	\end{tabular}
+\end{table}}
+\textit{Source: Ai-educate}
 \end{frame}
 
 \begin{comment}
