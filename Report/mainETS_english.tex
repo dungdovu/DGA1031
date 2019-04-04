@@ -144,18 +144,12 @@ The interactivity of online learning is very important through it becomes popula
 %%- List of figures -%%
 \listoffigures
 
-\listofalgorithms
+%\listofalgorithms
 
 
 %%- List of abbreviations -%%
 \begin{listofabbr}[3cm]
 \item [AI] Artificial Intelligence
-
-\end{listofabbr}
-
-
-%%- List of symbols -%%
-\begin{listofsymbols}[3cm]
 \item [ITS] Intelligent Tutoring Systems
 \item [CSCL]  Computer-Supported Collaborative Learning
 \item [RNN] Recurrent Neural Network 
@@ -164,7 +158,14 @@ The interactivity of online learning is very important through it becomes popula
 \item [SVM] Support Vector Machine
 \item [CNNs] Convolution Neural Networkss
 
-\end{listofsymbols}
+\end{listofabbr}
+
+
+%%- List of symbols -%%
+%\begin{listofsymbols}[3cm]
+
+
+%\end{listofsymbols}
 
 
 \cleardoublepage
@@ -200,9 +201,9 @@ According to the timeline of AutoTutor systems or Intelligent Tutor systems deve
 \begin{figure}
 	\centering
 	
-	\includegraphics[width=0.75\textwidth]{Figures/1.png}
+	\includegraphics[width=0.75\textwidth]{Figures/ht1s.png}
 	
-	\caption{Timelines of AutoTutor }
+	\caption{The time life of Intelligent Tutor System (ITS) }
 	\label{fig:timeline}
 \end{figure}
 
@@ -436,7 +437,7 @@ of commonality with group members, and lack of subject knowledge which is presen
 In the ideal case, we assume that all the conditions of hardware, bandwidth, or the other materials are satisfied the requirement of online group learning system based on dialogue methodology. Hence, the challenges come from both sides: one is from students and the other is from the instructor. To support students working together in a collaborative online group learning or E-learning platform by the use of a dialogue system with low price is the most important challenges of encouraging the students learning.
 
 \begin{figure}
-	\includegraphics[width=0.7\textwidth]{Figures/se1.png}
+	\includegraphics[width=0.6\textwidth]{Figures/se1.png}
 	\caption{Intelligence Tutor System context}
 	\label{ITSC}
 \end{figure}
@@ -602,7 +603,7 @@ According to the extraction definition dataset, we observe that one concept may 
 		\code{perplexity}          & the real value of perplexity of desciption  & &  &  \\\cline{1-2}
 		\code{likelihood\_score}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of description\\ based on sum of probability output by using language \\model\end{tabular} & &  &  \\ \cline{1-2}
 	\end{tabular}
-	\caption{Table features of definition}
+	\caption{Features of definition}
 	\label{tab:2}
 \end{table}
 \begin{figure}
@@ -635,9 +636,9 @@ These properties will be used in the future to evaluate if the student’s respo
 		\code{keyword\_rate}          &  the rate of $\frac{keyword\_position}{length\_of\_hint}$  & &  &  \\ \cline{1-2}
 		\code{perplexity}          & the real value of perplexity of hint  & &  &  \\ \cline{1-2}
 		\code{ner\_in\_hint}          & name of entity recognition within the hint        & &  &  \\ \cline{1-2}
-			\code{score\_of\_hint}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of hints\\ based on sum of probability terms  by using language \\model based on RNN\end{tabular}       & &  &  \\
+			\code{score\_of\_hint}          & \begin{tabular}[c]{@{}l@{}}the log-likelihood probability score of hints\\ based on sum of probability terms  by using language \\model based on RNN\end{tabular}       & &  &  \\\cline{1-2}
 	\end{tabular}
-	\caption{Table features of hints}
+	\caption{Features of hints}
 	\label{tab:3}
 \end{table}
 
@@ -690,10 +691,10 @@ The dominant words are found by using a word cloud applications. We remove unsui
 	\caption{Intervention system}
 	\label{intervention}
 \end{figure}
-Figure \ref{intervention} illustrates the architecture of the third system, which interactively identifies the opportunities for intervention and helps students solve their problems during conversations. The input data is a collection of various different materials such as hints, clarify a problem, sentiment analysis, questions and answers, students' questions and answers recognition.  We extract the fact of sentiment words included emoticons from the students' conversations, then match all the emoticon symbols to its' meaning. After that, we analysis the sentimental of each student according to their conversation. Based on the clarify problem scales and sentimental analysis, the opportunity of intervention is identified by using the hidden Markov chain algorithm. Each state of sentiments is processed by the Sentiment Analysis which is recorded as an input recommendation system. In order to automatically help and encourage students to study, a system for processing a variety of data related to the topic and language is proposed based on Natural Langauge Processing (NLP) technology.  By considering these questions and answers respected with the students’ answers and their profile, the relevance and adapter hints are generated. The scoring and confidence model is finally applied to evaluate the quality of the output data.  Sentiment  analysis also  is aware of conversation mining which needs to be analyzed,  processed, reasoned and induced texts with emotional labels. It extracts polarity and subjectively from the semantic orientation which refers to the strength of words and polarity text or phases. We approach the to machine learning method where sentiment detection is labeled as emoticons.  Emoticon classification is the core problem of sentiment analysis technology, is to judge tendency in the  review, then is considered as the weight of the relevance term. According to the limited data information, we use Support Vector Machine (SVM) \cite{Saif} to find the best compromise between the complexity and the learning ability, in order to get the best generalization ability up to 80\% of accuracy on the test set. The feature vector is created as the table \ref{tab:svm}
+Figure \ref{intervention} illustrates the architecture of the third system, which interactively identifies the opportunities for intervention and helps students solve their problems during conversations. The input data is a collection of various different materials such as hints, clarify a problem, sentiment analysis, questions and answers, students' questions and answers recognition.  We extract the fact of sentiment words included emoticons from the students' conversations, then match all the emoticon symbols to its' meaning. After that, we analysis the sentimental of each student according to their conversation. Based on the clarify problem scales and sentimental analysis, the opportunity of intervention is identified by using the hidden Markov chain algorithm. Each state of sentiments is processed by the Sentiment Analysis which is recorded as an input recommendation system. In order to automatically help and encourage students to study, a system for processing a variety of data related to the topic and language is proposed based on Natural Langauge Processing (NLP) technology.  By considering these questions and answers respected with the students’ answers and their profile, the relevance and adapter hints are generated. The scoring and confidence model is finally applied to evaluate the quality of the output data.  Sentiment  analysis also  is aware of conversation mining which needs to be analyzed,  processed, reasoned and induced texts with emotional labels. It extracts polarity and subjectively from the semantic orientation which refers to the strength of words and polarity text or phases. We approach the to machine learning method where sentiment detection is labeled as emoticons.  Emoticon and Contratict term classification is the core problem of sentiment analysis technology, is to judge tendency in the  review, then is considered as the weight of the relevance term. According to the limited data information, we use Support Vector Machine (SVM) \cite{Saif} to find the best compromise between the complexity and the learning ability, in order to get the best generalization ability up to 80\% of accuracy on the test set. The feature vector is created as the table \ref{tab:svm}
 
 \begin{figure}
-	\includegraphics[width=0.6\textwidth]{Figures/st4.png}
+	\includegraphics[width=0.6\textwidth]{Figures/st5.png}
 	\caption{Sentiment analysis}
 	\label{sentiment}
 \end{figure}
@@ -954,8 +955,56 @@ Sentiment Analysis”. Association for Computational Linguistics, 2012
 \end{spacing}
 \end{comment}
 \begin{appendices}
+	\chapter{Implementation and Results}
+
+
+In this experiment we had undergraduate and graduate students from McGill University (COMP-551) try to use our system (Korbit). The experiment was carried out in-class. We instroduced the system to students for frist 5 minutes which was followed the demo video, then highlighted how to write natural language answers and the concept tree building auxiliary task. After that, the students spent 30-40 minutes trying out the system for their studying. Students gave us the feedback after finishing their work. The experiment was conducted on the evenings of February 6th and February 8th, 2019. To solve disengaged students, students with less than 05 user utterances are excluded from this analysis. We also excluded 4 other students who were clearly abusing or playing around with the system instead of following the exercises given. There are four evaluated components in this experiment:\\
+1) Automatically generated hints \\ 
+2) New student model \\ 
+3) Concept tree visualization \\
+4) Concept tree building \\
+5) Selection task.\\
+We evaluated three variants of our system\footnote{Source: Ai-educate}:
+%\begin{itemize}
+%	\item (Handicapped) System, where the student model is not utilized at all
+%	\item (Handicapped) System, where the student model is not utilized by the policy for selecting next tutor engine states
+%	\item (Full) Regular system, where the system uses all its modules including the student model.
+%\end{itemize}
+ \begin{table}[]
+		\begin{tabular}{|l|l|l|}
+			\hline
+			& \begin{tabular}[c]{@{}l@{}}Human-Generated\\  Hints\end{tabular} & \begin{tabular}[c]{@{}l@{}}Machine-Generated \\ Hints\end{tabular} \\ \hline
+			Sessions (Users)                                                                                                                                                    & {\color[HTML]{333333} 36}                                        & {\color[HTML]{333333} 36}                                          \\ \hline
+			\begin{tabular}[c]{@{}l@{}}Number of times text-based hint \\ was shown (including the times it\\  was shown after the user clicked \\ “I don’t know”)\end{tabular} & 30 (100\%)                                                       & 19 (100\%)                                                         \\ \hline
+			\begin{tabular}[c]{@{}l@{}}Number of times users improved \\ their next solution attempt after \\ hint was shown\end{tabular}                                       & 8 (26.67\%)                                                      & 8 (42.11\%)                                                       \\ \hline
+			\begin{tabular}[c]{@{}l@{}}Number of times users gave a \\ “CORRECT” next solution attempt \\ after hint was shown\end{tabular}                                     & 5 (16.67\%)                                                      & 6 (31.58\%)                                                        \\ \hline
+
+		\end{tabular}
+				\caption{The experiment of generated hints}
+\end{table}
+The text-based hints generated by humans or by a machine automatically perform reasonably well. In previous experiments, we found that human-generated hints helped users to improve their answer by on average 10-30\% points (i.e. the probability of being “CORRECT” after a hint increased by 10-30\% points). The table above suggests that the hints in this experiment help improve the student answers 20\% - 50\% of the time and that 10\% - 30\% of the time the student’s next solution attempt is “CORRECT”.  When comparing the human-generated hints to the machine-generated hints, the table above shows that the machine-generated hints perform better. This may be an artefact of the fact that the machine-generated hints are created based on the reference solutions and therefore may reveal more information to the students. These numbers should therefore be interpreted with a grain of salt. If we stay on the conservative side, we may conclude that the machine-generated hints are overall comparable to the human-generated hints. This is still good news, because it means that we can automate one of the most important parts of the content creation pipeline.
 	\chapter {Plan of researching}
-  \includepdf{"plan"}
+
+\begin{figure}
+	
+	
+		\includegraphics[width=\textwidth]{Figures/plan2.png}
+	
+	\caption{Work schedule}
+\end{figure}
+
+		\textbf{Journals:}
+		\par [1] Journal of Artificial Intelligence Research 
+		\par [2] Technology, Knowledge and Learning
+		\par [3] Education and Information Technologies
+		
+
+		\textbf{Finished courses:}
+		\par (1) DGA1005
+		\par (2) MTI830
+		
+
+
 
 	\chapter{Evaluation Question Bank}
      \includepdf{"4"}

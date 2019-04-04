@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  2 APR 2019 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  3 APR 2019 16:22
 entering extended mode
 **./update_DGA1033.tex
 (update_DGA1033.tex
@@ -1003,7 +1003,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] (update_DGA1033.toc) [2
 
 ]
-<market2.png, id=296, 713.66624pt x 564.60938pt>
+<market2.png, id=320, 713.66624pt x 564.60938pt>
 File: market2.png Graphic file (type png)
 <use market2.png>
 Package pdftex.def Info: market2.png  used on input line 127.
@@ -1012,305 +1012,324 @@ Package pdftex.def Info: market2.png  used on input line 127.
 [3
 
  <./market2.png>]
-<ht1s.png, id=373, 875.27pt x 1075.01625pt>
-File: ht1s.png Graphic file (type png)
-<use ht1s.png>
-Package pdftex.def Info: ht1s.png  used on input line 153.
+<ht12.png, id=402, 875.27pt x 1075.01625pt>
+File: ht12.png Graphic file (type png)
+<use ht12.png>
+Package pdftex.def Info: ht12.png  used on input line 160.
 (pdftex.def)             Requested size: 128.0374pt x 157.24304pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 153.
+LaTeX Font Info:    Try loading font information for U+msa on input line 160.
 
 ("C:\Users\vudod\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 153.
+LaTeX Font Info:    Try loading font information for U+msb on input line 160.
 ("C:\Users\vudod\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 153.
+line 160.
 
 ("C:\Users\vudod\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\ot1
 mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [4
+)
+<autotutor.png, id=404, 916.92563pt x 373.395pt>
+File: autotutor.png Graphic file (type png)
+<use autotutor.png>
+Package pdftex.def Info: autotutor.png  used on input line 160.
+(pdftex.def)             Requested size: 128.0374pt x 52.1382pt.
+<lila.png, id=405, 963.6pt x 542.025pt>
+File: lila.png Graphic file (type png)
+<use lila.png>
+Package pdftex.def Info: lila.png  used on input line 160.
+(pdftex.def)             Requested size: 128.0374pt x 72.0206pt.
+ [4
 
- <./ht1s.png>]
-<se1.png, id=459, 410.53375pt x 378.41376pt>
-File: se1.png Graphic file (type png)
-<use se1.png>
-Package pdftex.def Info: se1.png  used on input line 178.
-(pdftex.def)             Requested size: 128.0374pt x 118.01726pt.
- [5
-
- <./se1.png>] [6
-
-] [7
-
- <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/tex/latex/beamer/beamericona
-rticle.pdf>] [8
+ <./ht12.png> <./autotutor.png> <./lila.png (PNG copy)>]
+[5
 
 ]
-<p21.png, id=779, 473.77pt x 322.20375pt>
+<se1.png, id=575, 410.53375pt x 378.41376pt>
+File: se1.png Graphic file (type png)
+<use se1.png>
+Package pdftex.def Info: se1.png  used on input line 194.
+(pdftex.def)             Requested size: 128.0374pt x 118.01726pt.
+ [6
+
+ <./se1.png>] [7
+
+] [8
+
+ <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/tex/latex/beamer/beamericona
+rticle.pdf>] [9
+
+]
+<p21.png, id=915, 473.77pt x 322.20375pt>
 File: p21.png Graphic file (type png)
 <use p21.png>
-Package pdftex.def Info: p21.png  used on input line 240.
-(pdftex.def)             Requested size: 128.0374pt x 87.07483pt.
-
-[9
-
- <./p21.png>]
-<p22.png, id=856, 473.77pt x 322.20375pt>
-File: p22.png Graphic file (type png)
-<use p22.png>
-Package pdftex.def Info: p22.png  used on input line 273.
+Package pdftex.def Info: p21.png  used on input line 256.
 (pdftex.def)             Requested size: 128.0374pt x 87.07483pt.
  [10
 
- <./p22.png>]
-<pp1.png, id=934, 323.2075pt x 252.945pt>
-File: pp1.png Graphic file (type png)
-<use pp1.png>
-Package pdftex.def Info: pp1.png  used on input line 303.
-(pdftex.def)             Requested size: 110.62401pt x 86.57524pt.
-<pp2.png, id=935, 327.2225pt x 190.7125pt>
-File: pp2.png Graphic file (type png)
-<use pp2.png>
-Package pdftex.def Info: pp2.png  used on input line 303.
-(pdftex.def)             Requested size: 110.62401pt x 64.4718pt.
+ <./p21.png>]
+<p22.png, id=997, 473.77pt x 322.20375pt>
+File: p22.png Graphic file (type png)
+<use p22.png>
+Package pdftex.def Info: p22.png  used on input line 289.
+(pdftex.def)             Requested size: 128.0374pt x 87.07483pt.
  [11
 
- <./pp1.png> <./pp2.png>] [12
+ <./p22.png>]
+<pp1.png, id=1080, 323.2075pt x 252.945pt>
+File: pp1.png Graphic file (type png)
+<use pp1.png>
+Package pdftex.def Info: pp1.png  used on input line 319.
+(pdftex.def)             Requested size: 110.62401pt x 86.57524pt.
+<pp2.png, id=1081, 327.2225pt x 190.7125pt>
+File: pp2.png Graphic file (type png)
+<use pp2.png>
+Package pdftex.def Info: pp2.png  used on input line 319.
+(pdftex.def)             Requested size: 110.62401pt x 64.4718pt.
+
+[12
+
+ <./pp1.png> <./pp2.png>] [13
 
 ]
-<p3.png, id=1088, 503.8825pt x 330.23375pt>
+<p3.png, id=1245, 503.8825pt x 330.23375pt>
 File: p3.png Graphic file (type png)
 <use p3.png>
-Package pdftex.def Info: p3.png  used on input line 333.
+Package pdftex.def Info: p3.png  used on input line 349.
 (pdftex.def)             Requested size: 122.9164pt x 80.55272pt.
-<p5.png, id=1089, 503.8825pt x 276.03125pt>
+<p5.png, id=1246, 503.8825pt x 276.03125pt>
 File: p5.png Graphic file (type png)
 <use p5.png>
-Package pdftex.def Info: p5.png  used on input line 333.
+Package pdftex.def Info: p5.png  used on input line 349.
 (pdftex.def)             Requested size: 122.9164pt x 67.3313pt.
-<p4.png, id=1090, 577.15625pt x 491.8375pt>
+<p4.png, id=1247, 577.15625pt x 491.8375pt>
 File: p4.png Graphic file (type png)
 <use p4.png>
-Package pdftex.def Info: p4.png  used on input line 333.
+Package pdftex.def Info: p4.png  used on input line 349.
 (pdftex.def)             Requested size: 122.9164pt x 104.74486pt.
-<p6.png, id=1091, 510.90875pt x 263.98625pt>
+<p6.png, id=1248, 510.90875pt x 263.98625pt>
 File: p6.png Graphic file (type png)
 <use p6.png>
-Package pdftex.def Info: p6.png  used on input line 333.
+Package pdftex.def Info: p6.png  used on input line 349.
 (pdftex.def)             Requested size: 122.9164pt x 63.50702pt.
- [13
-
- <./p3.png> <./p5.png> <./p4.png> <./p6.png>]
-<m1.png, id=1172, 495.8525pt x 262.9825pt>
-File: m1.png Graphic file (type png)
-<use m1.png>
-Package pdftex.def Info: m1.png  used on input line 396.
-(pdftex.def)             Requested size: 156.49014pt x 82.99641pt.
  [14
 
- <./m1.png>] [15
+ <./p3.png> <./p5.png> <./p4.png> <./p6.png>]
+<m1.png, id=1333, 495.8525pt x 262.9825pt>
+File: m1.png Graphic file (type png)
+<use m1.png>
+Package pdftex.def Info: m1.png  used on input line 412.
+(pdftex.def)             Requested size: 156.49014pt x 82.99641pt.
+ [15
+
+ <./m1.png>] [16
 
 ]
-<2.png, id=1324, 816.04875pt x 474.77374pt>
+<2.png, id=1495, 816.04875pt x 474.77374pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 423.
+Package pdftex.def Info: 2.png  used on input line 439.
 (pdftex.def)             Requested size: 227.62204pt x 132.42862pt.
- [16
+ [17
 
- <./2.png>]
-[17
+ <./2.png>] [18
 
 ]
-<23.png, id=1476, 1060.96375pt x 718.685pt>
+<23.png, id=1657, 1060.96375pt x 718.685pt>
 File: 23.png Graphic file (type png)
 <use 23.png>
-Package pdftex.def Info: 23.png  used on input line 441.
+Package pdftex.def Info: 23.png  used on input line 457.
 (pdftex.def)             Requested size: 199.16928pt x 134.90663pt.
- [18
-
- <./23.png>]
-<cr.png, id=1553, 373.395pt x 372.39125pt>
-File: cr.png Graphic file (type png)
-<use cr.png>
-Package pdftex.def Info: cr.png  used on input line 458.
-(pdftex.def)             Requested size: 142.26378pt x 141.87949pt.
  [19
 
- <./cr.png>] [20
+ <./23.png>]
+<cr.png, id=1740, 373.395pt x 372.39125pt>
+File: cr.png Graphic file (type png)
+<use cr.png>
+Package pdftex.def Info: cr.png  used on input line 474.
+(pdftex.def)             Requested size: 142.26378pt x 141.87949pt.
+ [20
+
+ <./cr.png>]
+[21
 
 ]
-<df1.png, id=1706, 427.5975pt x 454.69875pt>
+<df1.png, id=1902, 427.5975pt x 454.69875pt>
 File: df1.png Graphic file (type png)
 <use df1.png>
-Package pdftex.def Info: df1.png  used on input line 486.
+Package pdftex.def Info: df1.png  used on input line 502.
 (pdftex.def)             Requested size: 142.26378pt x 151.2791pt.
- [21
-
- <./df1.png>]
-<dc1.png, id=1783, 370.38374pt x 332.24126pt>
-File: dc1.png Graphic file (type png)
-<use dc1.png>
-Package pdftex.def Info: dc1.png  used on input line 506.
-(pdftex.def)             Requested size: 142.26378pt x 127.61163pt.
  [22
 
- <./dc1.png>]
-[23
+ <./df1.png>]
+<dc1.png, id=1984, 370.38374pt x 332.24126pt>
+File: dc1.png Graphic file (type png)
+<use dc1.png>
+Package pdftex.def Info: dc1.png  used on input line 522.
+(pdftex.def)             Requested size: 142.26378pt x 127.61163pt.
+ [23
+
+ <./dc1.png>] [24
 
 ]
-Overfull \hbox (9.18173pt too wide) in paragraph at lines 544--544
+Overfull \hbox (9.18173pt too wide) in paragraph at lines 560--560
  [] 
  []
 
-[24
+[25
 
-] [25
+] [26
 
 ]
-<hd1.png, id=2088, 122.4575pt x 214.8025pt>
+<hd1.png, id=2309, 122.4575pt x 214.8025pt>
 File: hd1.png Graphic file (type png)
 <use hd1.png>
-Package pdftex.def Info: hd1.png  used on input line 571.
+Package pdftex.def Info: hd1.png  used on input line 587.
 (pdftex.def)             Requested size: 71.13188pt x 124.77563pt.
- [26
-
- <./hd1.png>]
-<qa3.png, id=2165, 378.41376pt x 236.885pt>
-File: qa3.png Graphic file (type png)
-<use qa3.png>
-Package pdftex.def Info: qa3.png  used on input line 579.
-(pdftex.def)             Requested size: 184.9429pt x 115.77464pt.
  [27
 
- <./qa3.png>]
-<ht2.png, id=2242, 703.62875pt x 269.005pt>
-File: ht2.png Graphic file (type png)
-<use ht2.png>
-Package pdftex.def Info: ht2.png  used on input line 585.
-(pdftex.def)             Requested size: 256.0748pt x 97.89662pt.
+ <./hd1.png>]
+<qa3.png, id=2391, 378.41376pt x 236.885pt>
+File: qa3.png Graphic file (type png)
+<use qa3.png>
+Package pdftex.def Info: qa3.png  used on input line 595.
+(pdftex.def)             Requested size: 184.9429pt x 115.77464pt.
  [28
 
- <./ht2.png>] [29
+ <./qa3.png>]
+<ht2.png, id=2473, 703.62875pt x 269.005pt>
+File: ht2.png Graphic file (type png)
+<use ht2.png>
+Package pdftex.def Info: ht2.png  used on input line 601.
+(pdftex.def)             Requested size: 256.0748pt x 97.89662pt.
+ [29
 
-] [30
+ <./ht2.png>] [30
 
 ] [31
 
+] [32
+
 ]
-<32.png, id=2546, 1141.26375pt x 785.93625pt>
+<32.png, id=2797, 1141.26375pt x 785.93625pt>
 File: 32.png Graphic file (type png)
 <use 32.png>
-Package pdftex.def Info: 32.png  used on input line 742.
+Package pdftex.def Info: 32.png  used on input line 758.
 (pdftex.def)             Requested size: 227.62204pt x 156.75273pt.
 
-[32
+[33
 
  <./32.png>]
-<dts.png, id=2623, 348.30125pt x 325.215pt>
+<dts.png, id=2879, 348.30125pt x 325.215pt>
 File: dts.png Graphic file (type png)
 <use dts.png>
-Package pdftex.def Info: dts.png  used on input line 765.
+Package pdftex.def Info: dts.png  used on input line 781.
 (pdftex.def)             Requested size: 142.26378pt x 132.83284pt.
- [33
-
- <./dts.png>]
-<AR_1.png, id=2700, 374.14781pt x 225.84375pt>
-File: AR_1.png Graphic file (type png)
-<use AR_1.png>
-Package pdftex.def Info: AR_1.png  used on input line 793.
-(pdftex.def)             Requested size: 142.26378pt x 85.8732pt.
  [34
 
+ <./dts.png>]
+<AR_1.png, id=2961, 374.14781pt x 225.84375pt>
+File: AR_1.png Graphic file (type png)
+<use AR_1.png>
+Package pdftex.def Info: AR_1.png  used on input line 809.
+(pdftex.def)             Requested size: 142.26378pt x 85.8732pt.
+ [35
+
  <./AR_1.png>]
-<nw.png, id=2777, 724.95844pt x 609.02531pt>
+<nw.png, id=3043, 724.95844pt x 609.02531pt>
 File: nw.png Graphic file (type png)
 <use nw.png>
-Package pdftex.def Info: nw.png  used on input line 811.
+Package pdftex.def Info: nw.png  used on input line 827.
 (pdftex.def)             Requested size: 113.81102pt x 95.60603pt.
 
-Overfull \hbox (6.25769pt too wide) in paragraph at lines 811--811
+Overfull \hbox (6.25769pt too wide) in paragraph at lines 827--827
 [][]  
  []
 
-[35
+[36
 
- <./nw.png>] [36
+ <./nw.png>] [37
 
 ]
-<58.png, id=2928, 955.57pt x 640.3925pt>
+<58.png, id=3205, 955.57pt x 640.3925pt>
 File: 58.png Graphic file (type png)
 <use 58.png>
-Package pdftex.def Info: 58.png  used on input line 1016.
+Package pdftex.def Info: 58.png  used on input line 1032.
 (pdftex.def)             Requested size: 213.39566pt x 143.00722pt.
- [37
+ [38
 
  <./58.png>]
-<st5.png, id=3006, 430.60875pt x 575.14874pt>
+<st5.png, id=3287, 430.60875pt x 575.14874pt>
 File: st5.png Graphic file (type png)
 <use st5.png>
-Package pdftex.def Info: st5.png  used on input line 1040.
+Package pdftex.def Info: st5.png  used on input line 1056.
 (pdftex.def)             Requested size: 136.57323pt x 182.419pt.
 
-Overfull \vbox (0.9413pt too high) detected at line 1040
+Overfull \vbox (0.9413pt too high) detected at line 1056
  []
 
-[38
+[39
 
  <./st5.png>]
-<tsv3.png, id=3083, 451.6875pt x 429.605pt>
+<tsv3.png, id=3369, 451.6875pt x 429.605pt>
 File: tsv3.png Graphic file (type png)
 <use tsv3.png>
-Package pdftex.def Info: tsv3.png  used on input line 1059.
+Package pdftex.def Info: tsv3.png  used on input line 1075.
 (pdftex.def)             Requested size: 142.26378pt x 135.30661pt.
- [39
+ [40
 
- <./tsv3.png>] [40
+ <./tsv3.png>] [41
 
 ]
-<lsm.jpg, id=3235, 1267.73625pt x 739.76375pt>
+<lsm.jpg, id=3531, 1267.73625pt x 739.76375pt>
 File: lsm.jpg Graphic file (type jpg)
 <use lsm.jpg>
-Package pdftex.def Info: lsm.jpg  used on input line 1101.
+Package pdftex.def Info: lsm.jpg  used on input line 1117.
 (pdftex.def)             Requested size: 138.2795pt x 80.6857pt.
-<mvp.png, id=3236, 831.105pt x 620.3175pt>
+<mvp.png, id=3532, 831.105pt x 620.3175pt>
 File: mvp.png Graphic file (type png)
 <use mvp.png>
-Package pdftex.def Info: mvp.png  used on input line 1101.
+Package pdftex.def Info: mvp.png  used on input line 1117.
 (pdftex.def)             Requested size: 110.62401pt x 82.56555pt.
 
-Overfull \vbox (2.04343pt too high) detected at line 1101
+Overfull \vbox (2.04343pt too high) detected at line 1117
  []
 
-[41
+[42
 
  <./lsm.jpg> <./mvp.png>]
-<ue1.png, id=3314, 654.445pt x 164.615pt>
+<ue1.png, id=3615, 654.445pt x 164.615pt>
 File: ue1.png Graphic file (type png)
 <use ue1.png>
-Package pdftex.def Info: ue1.png  used on input line 1117.
+Package pdftex.def Info: ue1.png  used on input line 1133.
 (pdftex.def)             Requested size: 245.83282pt x 61.83345pt.
- [42
+ [43
 
- <./ue1.png>] [43
+ <./ue1.png>] [44
 
-] [44
+] [45
 
 ]
-<plan2.png, id=3545, 1342.2647pt x 342.5297pt>
+<plan2.png, id=3861, 1342.2647pt x 342.5297pt>
 File: plan2.png Graphic file (type png)
 <use plan2.png>
-Package pdftex.def Info: plan2.png  used on input line 1709.
+Package pdftex.def Info: plan2.png  used on input line 1725.
 (pdftex.def)             Requested size: 284.52756pt x 72.60757pt.
- [45
+ [46
 
  <./plan2.png>]
-[46
+[47
+
+] [48
+
+] [49
+
+] [50
 
 ]
 \tf@nav=\write6
@@ -1322,23 +1341,23 @@ Package pdftex.def Info: plan2.png  used on input line 1709.
 \tf@snm=\write8
 \openout8 = `update_DGA1033.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1747.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1747.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1853.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1853.
  (update_DGA1033.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1747.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1747.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1853.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1853.
 
 Package rerunfilecheck Info: File `update_DGA1033.out' has not changed.
-(rerunfilecheck)             Checksum: 6B994C07F8A62A469B8BEE861B35B71E;286.
+(rerunfilecheck)             Checksum: 714F94C69B437F7CC532869D45C27DAF;332.
  ) 
 Here is how much of TeX's memory you used:
- 18599 strings out of 492946
- 362080 string characters out of 3126266
- 507560 words of memory out of 3000000
- 21921 multiletter control sequences out of 15000+200000
+ 18630 strings out of 492946
+ 362420 string characters out of 3126266
+ 521280 words of memory out of 3000000
+ 21941 multiletter control sequences out of 15000+200000
  17346 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,63p,804b,937s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,19n,63p,804b,773s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmss10.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmss12.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1354,9 +1373,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vudod/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/vu
 dod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
 
-Output written on update_DGA1033.pdf (46 pages, 2226653 bytes).
+Output written on update_DGA1033.pdf (50 pages, 3342421 bytes).
 PDF statistics:
- 3763 PDF objects out of 4296 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4332 PDF objects out of 5155 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
