@@ -95,7 +95,16 @@ Département de génie logiciel et des TI \\ % Your institution for the title pa
 
 \begin{frame}
 \frametitle{Overview} % Table of contents slide, comment this block out to remove it
+\begin{columns}
+	\begin{column}{.65\textwidth}
 \tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+\end{column}
+	\begin{column}{.35\textwidth}
+					\includegraphics[width=25mm]{ETS.png}\\
+										\includegraphics[width=25mm]{m2.jpg}\\
+															\includegraphics[width=20mm]{000.png}
+	\end{column}
+\end{columns}
 \end{frame}
 
 %----------------------------------------------------------------------------------------
@@ -467,7 +476,7 @@ Generate hints to help users solve the topic or problem automatically
 (3) Dataset: save data to the tsv file with it fields: title, link, content\\
 \end{column}
 \begin{column}{.5\textwidth}
-		\includegraphics[width=50mm]{cr.png}
+		\includegraphics[width=50mm]{cr1.png}
 \end{column}
 
 \end{columns}
@@ -478,6 +487,9 @@ Generate hints to help users solve the topic or problem automatically
 (5) Definition classification: classify type of definition based on supervisor algorithm (Good/Not Good)\\
 $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Good samples
 (6) Definition dataset: definition with its' label
+\begin{center}
+		\includegraphics[width=50mm]{df2.png}
+\end{center}
 \end{frame}
 \begin{frame}
 \frametitle{Objective 1 | Methodology | B. Definition processing | Definition extractor}
@@ -493,7 +505,7 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 			\item Extract subject (noun phase) $\leftarrow$ Get the keyword (concept)
 			\item Filter the right keyword (concept)
 			\item Get the description of concept
-			\item Save the list (dict) description of conecept which is called dictionary of definition
+			\item Save the list (dict) description of concept which is called dictionary of definition
 		\end{itemize}
 	\end{column}
 
@@ -508,7 +520,7 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 		\begin{itemize}
 			\item Extract the features $\leftarrow$ score table
 			\item Save the score table to the definition dataset
-			\item Classify the G/NG definition based on supervised learning algorithm
+			\item Classify the G/NG definition based on logistic classification
 			\item Save the classification model
 		\end{itemize}
 	
@@ -557,6 +569,7 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 		\begin{tabular}[c]{@{}l@{}}linear \\regression\\   models\end{tabular}	&  \begin{tabular}[c]{@{}l@{}}The numerical methods for  \\linear least squares are\\ important because linear regression\\ models are among   the\\ most important types of\\ model, both as formal statistical\\ models and   exploration of data-sets.\end{tabular}            &     Negative   &  20.78                                                                 &                                   146.77                                     &   ...  &                         10.49                                                               \\ \hline
 		\end{tabular}
 \end{table}}
+
 \end{frame}
 \begin{frame}
 \frametitle{Objective 1 | Methodology | C. Hint generation}
@@ -565,6 +578,10 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 (9) Answer recognition: recognize answer of student \\
 
 (10) Hints generator: generate hint based on hint types, level, and language model \\
+\begin{center}
+	
+	\includegraphics[width=50mm]{hf1.png}
+\end{center}
 \end{frame}
 
 
@@ -633,6 +650,8 @@ $\rightarrow$ Using the oversampling methodology to reweight the Good and Not Go
 {\tiny \textbf{Question:\\}
 \colorbox{green!30}{\begin{tabular}[c]{@{}l@{}}You are given a dataset of images of wildlife in Africa.\\ You are tasked with building a model which can identify animals in the images. \\
 Is this a regression or classification problem? Explain why?\end{tabular}    }}\\
+{\tiny \textbf{Answer:\\}
+\colorbox{blue!30}{\begin{tabular}[c]{@{}l@{}}It is the regression problem because the animal is the independent entity in the africa\end{tabular}    }}\\
 {\tiny \textbf{Hints:}}
 {\tiny \begin{itemize}
 	\item Recall that each animal is a class.
@@ -764,7 +783,7 @@ $\rightarrow$ Identify opportunity of intervention
 \begin{columns}
 	
 	\begin{column}{.55\textwidth}
-\textbf{	(1) Data crawler}: crawling data from stackoverflow,\\ hangout, messenger, slackwith a given domain (e.g., statistic)\\
+\textbf{	(1) Data crawler}: crawling data from stackoverflow,\\ hangout, messenger, slack with a given domain (e.g., statistic)\\
 \textbf{	(2) Data cleaning}: Clean content: clean unicode, equation over the conversation\\
 \textbf{	(3) Conversation dataset}: save the conversation dataset to the tsv file\\
 	\end{column}
@@ -802,6 +821,7 @@ $\rightarrow$ Identify opportunity of intervention
 		\item $Lift$: the ratio of the observed support to that expected if X and Y were independent
 		
 	\end{itemize}
+
 	\end{column}
 \end{columns}
 
@@ -1036,20 +1056,21 @@ $\leftarrow$ E.g., extract definitions from wikipedia
 	
 	\begin{column}{.5\textwidth}
 \begin{figure}
-	\includegraphics[width=48mm]{st5.png}	
+	\includegraphics[width=48mm]{st6.png}	
 	
 \end{figure}
 \end{column}
 \begin{column}{.5\textwidth}
-\begin{itemize}
+{\scriptsize \begin{itemize}
 	\item Listening the conversation
 	\item Using SVM in classifying the Emoticons of content
 	\item Cummulate the setiment of question, answer, and comment for evaluating the sentiment of conversation
-\end{itemize}
-{\tiny Ref: L. Ling, S. Larsen, "Sentiment Analysis on Stack Overflow with
+\end{itemize}}
+{\tiny (*) L. Ling, S. Larsen, "Sentiment Analysis on Stack Overflow with
 Respect to Document Type and
-Programming Language", KTH ROYAL INSTITUTE OF TECHNOLOGY}
-
+Programming Language", KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018}\\
+{\tiny (**) M. Marneffe, A. N. Rafferty, and
+C. D. Manning. 2008. Finding contradictions in text. In Proc. ACL}
 \end{column}
 
 \end{columns}	
@@ -1823,6 +1844,49 @@ skills and provides automated evaluation and feedback on essays. It is related t
 the iSTART system.}
 \end{frame}
 
+\begin{frame}
+\frametitle{Appendices}
+	\includegraphics[width=100mm]{as.png}
+\end{frame}
+\begin{frame}
+\frametitle{Appendices}
+
+\includegraphics[width=100mm]{api.png}
+\end{frame}
+\begin{frame}
+\frametitle{Appendices}
+* We extract contracdiction features on which we apply logistic 
+Features for constradiction detection
+{\tiny \begin{table}[]
+		\begin{tabular}{|l|l|lll}
+			\cline{1-2}
+			\textbf{Features}             & \textbf{Summary}              &  &  &  \\ \cline{1-2}
+			\code{polarity}  &  	\begin{tabular}[c]{@{}l@{}}The polarity features capture the presence (or absence)\\ of linguistic markers of negative polarity contexts \end{tabular}   &  &  &  \\ \cline{1-2}
+			\code{numeric} & \begin{tabular}[c]{@{}l@{}}The numeric features recognize
+			(mis-)matches \\between numbers, dates, and times\end{tabular} &  &  &  \\ \cline{1-2}
+		
+			\code{antonymy}          &  \begin{tabular}[c]{@{}l@{}}list of antonyms
+			and contrasting words comes from WordNet,\\ from
+			which we extract words with direct antonymy links\\
+			and expand the list by adding words from the same
+			synset\\ as the antonyms \end{tabular}   &  &  &  \\ \cline{1-2}
+			
+			\code{structural}          & \begin{tabular}[c]{@{}l@{}}determine whether the syntactic structures of the text\\ and
+			hypothesis create contradictory statements.   \end{tabular} & &  &  \\ \cline{1-2}
+			\code{factivity}          &  \begin{tabular}[c]{@{}l@{}} The context in which a verb\\
+			phrase is embedded may give rise to contradiction \end{tabular}  & &  &  \\ \cline{1-2}
+			\code{modality}          &\begin{tabular}[c]{@{}l@{}} Simple patterns of modal reasoning are captured\\ by mapping the text and hypothesis to one of \\six modalities ((not )possible,
+			(not )actual, (not )necessary),\\ according to the
+			presence of predefined modality markers such as\\
+			can or maybe \end{tabular} & &  &  \\ \cline{1-2}
+		
+		
+		\end{tabular}
+		\caption{Features of contradict detection}
+		\label{tab:3}
+\end{table}}
+
+\end{frame}
 \begin{comment}
 \begin{frame}
 \frametitle{Training spaCy’s Statistical Models}
