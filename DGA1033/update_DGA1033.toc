@@ -1,7 +1,7 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Problem statement}{6}{0}{2}
+\beamer@sectionintoc {2}{Problem statement}{11}{0}{2}
 \beamer@sectionintoc {3}{Motivations}{15}{0}{3}
 \beamer@sectionintoc {4}{Objectives}{16}{0}{4}
 \beamer@sectionintoc {5}{Methodology}{17}{0}{5}
-\beamer@sectionintoc {6}{Work plan}{46}{0}{6}
-\beamer@sectionintoc {7}{Appendices}{48}{0}{7}
+\beamer@sectionintoc {6}{Work plan}{47}{0}{6}
+\beamer@sectionintoc {7}{Appendices}{49}{0}{7}
