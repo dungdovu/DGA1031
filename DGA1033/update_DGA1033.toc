@@ -3,5 +3,5 @@
 \beamer@sectionintoc {3}{Motivations}{15}{0}{3}
 \beamer@sectionintoc {4}{Objectives}{16}{0}{4}
 \beamer@sectionintoc {5}{Methodology}{17}{0}{5}
-\beamer@sectionintoc {6}{Work plan}{47}{0}{6}
-\beamer@sectionintoc {7}{Appendices}{49}{0}{7}
+\beamer@sectionintoc {6}{Work plan}{51}{0}{6}
+\beamer@sectionintoc {7}{Appendices}{53}{0}{7}
