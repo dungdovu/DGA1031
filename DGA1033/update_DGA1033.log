@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  25 APR 2019 05:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.19)  28 APR 2019 16:23
 entering extended mode
 **./update_DGA1033.tex
 (update_DGA1033.tex
@@ -830,6 +830,15 @@ LaTeX Warning: Label `Dahbi' multiply defined.
 
 LaTeX Warning: Label `tab:3' multiply defined.
 
+
+LaTeX Warning: Label `Calefato' multiply defined.
+
+
+LaTeX Warning: Label `tab:3' multiply defined.
+
+
+LaTeX Warning: Label `Calefato' multiply defined.
+
 )
 \openout1 = `update_DGA1033.aux'.
 
@@ -1010,15 +1019,17 @@ Dictionary: translator-numbers-dictionary, Language: English
 tor-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (update_DGA1033.nav)
-Overfull \hbox (25.65059pt too wide) detected at line 91
+Overfull \hbox (73.451pt too wide) detected at line 91
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [1{C:/Users/vudod/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
@@ -1042,803 +1053,1043 @@ mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<ETS.png, id=279, 254.8722pt x 170.5572pt>
+<ETS.png, id=315, 254.8722pt x 170.5572pt>
 File: ETS.png Graphic file (type png)
 <use ETS.png>
 Package pdftex.def Info: ETS.png  used on input line 109.
 (pdftex.def)             Requested size: 71.13188pt x 47.59953pt.
-<m2.jpg, id=281, 538.8933pt x 195.129pt>
+<m2.jpg, id=317, 538.8933pt x 195.129pt>
 File: m2.jpg Graphic file (type jpg)
 <use m2.jpg>
 Package pdftex.def Info: m2.jpg  used on input line 109.
 (pdftex.def)             Requested size: 71.13188pt x 25.75471pt.
-<000.png, id=282, 401.5pt x 401.5pt>
-File: 000.png Graphic file (type png)
-<use 000.png>
-Package pdftex.def Info: 000.png  used on input line 109.
-(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+<korbit.png, id=318, 989.19562pt x 389.95688pt>
+File: korbit.png Graphic file (type png)
+<use korbit.png>
+Package pdftex.def Info: korbit.png  used on input line 109.
+(pdftex.def)             Requested size: 71.13188pt x 28.0376pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [2
 
- <./ETS.png> <./m2.jpg> <./000.png>]
-<market2.png, id=378, 713.66624pt x 564.60938pt>
+ <./ETS.png> <./m2.jpg> <./korbit.png>]
+<market2.png, id=425, 713.66624pt x 564.60938pt>
 File: market2.png Graphic file (type png)
 <use market2.png>
-Package pdftex.def Info: market2.png  used on input line 137.
+Package pdftex.def Info: market2.png  used on input line 139.
 (pdftex.def)             Requested size: 184.9429pt x 146.31252pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [3
 
- <./market2.png>]
-<history.png, id=473, 1552.29938pt x 807.015pt>
+ <./market2.png> <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/tex/latex/be
+amer/beamericonarticle.pdf>]
+<history.png, id=541, 1535.7375pt x 811.53188pt>
 File: history.png Graphic file (type png)
 <use history.png>
-Package pdftex.def Info: history.png  used on input line 189.
-(pdftex.def)             Requested size: 312.9803pt x 162.70543pt.
+Package pdftex.def Info: history.png  used on input line 191.
+(pdftex.def)             Requested size: 284.52756pt x 150.35393pt.
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 189--189
- [] 
- []
-
-
-Overfull \vbox (7.92773pt too high) detected at line 189
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [4
 
  <./history.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [5
 
 ]
-<se1.png, id=667, 410.53375pt x 378.41376pt>
+<se1.png, id=758, 410.53375pt x 378.41376pt>
 File: se1.png Graphic file (type png)
 <use se1.png>
 Package pdftex.def Info: se1.png  used on input line 221.
 (pdftex.def)             Requested size: 128.0374pt x 118.01726pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (99.01784pt too wide) detected at line 221
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
+
+
+Overfull \vbox (3.85156pt too high) detected at line 221
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [6
 
- <./se1.png> <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/tex/latex/beamer
-/beamericonarticle.pdf>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./se1.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [7
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [8
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [9
 
 ]
-<p21.png, id=1059, 473.77pt x 322.20375pt>
+<p21.png, id=1192, 473.77pt x 322.20375pt>
 File: p21.png Graphic file (type png)
 <use p21.png>
-Package pdftex.def Info: p21.png  used on input line 290.
+Package pdftex.def Info: p21.png  used on input line 291.
 (pdftex.def)             Requested size: 184.9429pt x 125.77695pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [10
 
  <./p21.png>]
-<p22.png, id=1154, 473.77pt x 322.20375pt>
+<p22.png, id=1299, 473.77pt x 322.20375pt>
 File: p22.png Graphic file (type png)
 <use p22.png>
-Package pdftex.def Info: p22.png  used on input line 326.
+Package pdftex.def Info: p22.png  used on input line 327.
 (pdftex.def)             Requested size: 184.9429pt x 125.77695pt.
 
-Overfull \hbox (15.93254pt too wide) in paragraph at lines 326--326
+Overfull \hbox (15.93254pt too wide) in paragraph at lines 327--327
  [] 
  []
 
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [11
 
  <./p22.png>]
-<pp1.png, id=1251, 323.2075pt x 252.945pt>
+<pp1.png, id=1407, 323.2075pt x 252.945pt>
 File: pp1.png Graphic file (type png)
 <use pp1.png>
-Package pdftex.def Info: pp1.png  used on input line 357.
+Package pdftex.def Info: pp1.png  used on input line 358.
 (pdftex.def)             Requested size: 131.3651pt x 102.80496pt.
-<pp2.png, id=1252, 327.2225pt x 190.7125pt>
+<pp2.png, id=1408, 327.2225pt x 190.7125pt>
 File: pp2.png Graphic file (type png)
 <use pp2.png>
-Package pdftex.def Info: pp2.png  used on input line 357.
+Package pdftex.def Info: pp2.png  used on input line 358.
 (pdftex.def)             Requested size: 131.3651pt x 76.563pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [12
 
  <./pp1.png> <./pp2.png>]
-<cvf1.png, id=1349, 1256.695pt x 884.30376pt>
+<cvf1.png, id=1517, 1256.695pt x 884.30376pt>
 File: cvf1.png Graphic file (type png)
 <use cvf1.png>
-Package pdftex.def Info: cvf1.png  used on input line 370.
+Package pdftex.def Info: cvf1.png  used on input line 371.
 (pdftex.def)             Requested size: 276.559pt x 194.6014pt.
 
-Overfull \vbox (11.12369pt too high) detected at line 370
+Overfull \vbox (11.12369pt too high) detected at line 371
  []
 
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [13
 
  <./cvf1.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [14
 
 ]
-<m1.png, id=1538, 495.8525pt x 262.9825pt>
+<m1.png, id=1730, 495.8525pt x 262.9825pt>
 File: m1.png Graphic file (type png)
 <use m1.png>
-Package pdftex.def Info: m1.png  used on input line 441.
+Package pdftex.def Info: m1.png  used on input line 442.
 (pdftex.def)             Requested size: 156.49014pt x 82.99641pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [15
 
  <./m1.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [16
 
 ]
-<sys2.png, id=1726, 645.41125pt x 474.77374pt>
+<sys2.png, id=1942, 645.41125pt x 474.77374pt>
 File: sys2.png Graphic file (type png)
 <use sys2.png>
-Package pdftex.def Info: sys2.png  used on input line 468.
+Package pdftex.def Info: sys2.png  used on input line 469.
 (pdftex.def)             Requested size: 227.62204pt x 167.44107pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [17
 
  <./sys2.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [18
 
 ]
-<ggg.png, id=1914, 1061.9675pt x 718.685pt>
+<ggg.png, id=2154, 1061.9675pt x 718.685pt>
 File: ggg.png Graphic file (type png)
 <use ggg.png>
-Package pdftex.def Info: ggg.png  used on input line 486.
+Package pdftex.def Info: ggg.png  used on input line 487.
 (pdftex.def)             Requested size: 256.0748pt x 173.29942pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [19
 
  <./ggg.png>]
-<cr1.png, id=2010, 342.27875pt x 372.39125pt>
+<cr1.png, id=2262, 342.27875pt x 372.39125pt>
 File: cr1.png Graphic file (type png)
 <use cr1.png>
-Package pdftex.def Info: cr1.png  used on input line 503.
+Package pdftex.def Info: cr1.png  used on input line 504.
 (pdftex.def)             Requested size: 142.26378pt x 154.78381pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [20
 
  <./cr1.png>]
-<223.png, id=2105, 407.5225pt x 211.79124pt>
+<223.png, id=2369, 407.5225pt x 211.79124pt>
 File: 223.png Graphic file (type png)
 <use 223.png>
-Package pdftex.def Info: 223.png  used on input line 513.
+Package pdftex.def Info: 223.png  used on input line 514.
 (pdftex.def)             Requested size: 142.26378pt x 73.93414pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [21
 
  <./223.png>]
-<df00.png, id=2200, 427.5975pt x 449.68pt>
+<df00.png, id=2477, 427.5975pt x 449.68pt>
 File: df00.png Graphic file (type png)
 <use df00.png>
-Package pdftex.def Info: df00.png  used on input line 534.
+Package pdftex.def Info: df00.png  used on input line 535.
 (pdftex.def)             Requested size: 142.26378pt x 149.60934pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [22
 
  <./df00.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [23
 
 ]
-<spa.png, id=2391, 1404.74812pt x 266.49562pt>
+<spa.png, id=2692, 1404.74812pt x 266.49562pt>
 File: spa.png Graphic file (type png)
 <use spa.png>
-Package pdftex.def Info: spa.png  used on input line 561.
+Package pdftex.def Info: spa.png  used on input line 562.
 (pdftex.def)             Requested size: 284.52756pt x 53.97726pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [24
 
  <./spa.png>]
-<dc3.png, id=2486, 370.38374pt x 332.24126pt>
+<dc3.png, id=2799, 370.38374pt x 332.24126pt>
 File: dc3.png Graphic file (type png)
 <use dc3.png>
-Package pdftex.def Info: dc3.png  used on input line 586.
+Package pdftex.def Info: dc3.png  used on input line 587.
 (pdftex.def)             Requested size: 142.26378pt x 127.61163pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [25
 
  <./dc3.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [26
 
 ]
-<Figure_1.png, id=2676, 462.528pt x 346.896pt>
+<Figure_1.png, id=3014, 462.528pt x 346.896pt>
 File: Figure_1.png Graphic file (type png)
 <use Figure_1.png>
-Package pdftex.def Info: Figure_1.png  used on input line 618.
-(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+Package pdftex.def Info: Figure_1.png  used on input line 640.
+(pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (30.15892pt too wide) in paragraph at lines 640--640
+[][]  
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [27
 
  <./Figure_1.png>]
-Overfull \hbox (22.08177pt too wide) in paragraph at lines 631--631
+Overfull \hbox (22.08177pt too wide) in paragraph at lines 653--653
  [] 
  []
 
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [28
 
 ]
-<hf3.png, id=2864, 805.0075pt x 508.90125pt>
+<hf3.png, id=3226, 805.0075pt x 508.90125pt>
 File: hf3.png Graphic file (type png)
 <use hf3.png>
-Package pdftex.def Info: hf3.png  used on input line 645.
+Package pdftex.def Info: hf3.png  used on input line 667.
 (pdftex.def)             Requested size: 142.26378pt x 89.92876pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [29
 
  <./hf3.png>]
-<hd1.png, id=2959, 122.4575pt x 214.8025pt>
+<hd1.png, id=3333, 122.4575pt x 214.8025pt>
 File: hd1.png Graphic file (type png)
 <use hd1.png>
-Package pdftex.def Info: hd1.png  used on input line 664.
+Package pdftex.def Info: hd1.png  used on input line 686.
 (pdftex.def)             Requested size: 51.21495pt x 89.83295pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [30
 
  <./hd1.png>]
-<qa3.png, id=3054, 378.41376pt x 236.885pt>
+<qa3.png, id=3440, 378.41376pt x 236.885pt>
 File: qa3.png Graphic file (type png)
 <use qa3.png>
-Package pdftex.def Info: qa3.png  used on input line 672.
+Package pdftex.def Info: qa3.png  used on input line 694.
 (pdftex.def)             Requested size: 156.49014pt x 97.96205pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [31
 
  <./qa3.png>]
-<ht3.png, id=3150, 704.6325pt x 269.005pt>
-File: ht3.png Graphic file (type png)
-<use ht3.png>
-Package pdftex.def Info: ht3.png  used on input line 678.
+<hints3.png, id=3548, 704.6325pt x 269.005pt>
+File: hints3.png Graphic file (type png)
+<use hints3.png>
+Package pdftex.def Info: hints3.png  used on input line 700.
 (pdftex.def)             Requested size: 256.0748pt x 97.76117pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [32
 
- <./ht3.png>]
-Overfull \vbox (11.82314pt too high) detected at line 706
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./hints3.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [33
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (43.42307pt too wide) in paragraph at lines 740--740
+ [] 
+ []
+
+
+Overfull \vbox (2.00842pt too high) detected at line 740
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [34
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [35
 
 ]
-<33.png, id=3525, 1142.2675pt x 828.09375pt>
-File: 33.png Graphic file (type png)
-<use 33.png>
-Package pdftex.def Info: 33.png  used on input line 838.
-(pdftex.def)             Requested size: 227.62204pt x 165.0093pt.
+<kohen.png, id=3971, 490.08093pt x 368.1253pt>
+File: kohen.png Graphic file (type png)
+<use kohen.png>
+Package pdftex.def Info: kohen.png  used on input line 776.
+(pdftex.def)             Requested size: 170.71652pt x 128.23352pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [36
 
- <./33.png>]
-<dsf.png, id=3620, 348.30125pt x 325.215pt>
-File: dsf.png Graphic file (type png)
-<use dsf.png>
-Package pdftex.def Info: dsf.png  used on input line 864.
-(pdftex.def)             Requested size: 113.81102pt x 106.26428pt.
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./kohen.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [37
 
- <./dsf.png>]
-<AR_1.png, id=3716, 374.14781pt x 225.84375pt>
-File: AR_1.png Graphic file (type png)
-<use AR_1.png>
-Package pdftex.def Info: AR_1.png  used on input line 896.
-(pdftex.def)             Requested size: 142.26378pt x 85.8732pt.
+]
+<33.png, id=4183, 1142.2675pt x 828.09375pt>
+File: 33.png Graphic file (type png)
+<use 33.png>
+Package pdftex.def Info: 33.png  used on input line 888.
+(pdftex.def)             Requested size: 227.62204pt x 165.0093pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [38
 
- <./AR_1.png>]
-<nw.png, id=3812, 724.95844pt x 609.02531pt>
-File: nw.png Graphic file (type png)
-<use nw.png>
-Package pdftex.def Info: nw.png  used on input line 914.
-(pdftex.def)             Requested size: 113.81102pt x 95.60603pt.
+ <./33.png>]
+<dsf.png, id=4290, 348.30125pt x 325.215pt>
+File: dsf.png Graphic file (type png)
+<use dsf.png>
+Package pdftex.def Info: dsf.png  used on input line 914.
+(pdftex.def)             Requested size: 113.81102pt x 106.26428pt.
 
-Overfull \hbox (6.25769pt too wide) in paragraph at lines 914--914
-[][]  
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [39
 
- <./nw.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./dsf.png>]
+<AR_1.png, id=4397, 374.14781pt x 225.84375pt>
+File: AR_1.png Graphic file (type png)
+<use AR_1.png>
+Package pdftex.def Info: AR_1.png  used on input line 947.
+(pdftex.def)             Requested size: 142.26378pt x 85.8732pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [40
 
-]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./AR_1.png>]
+<nw.png, id=4506, 724.95844pt x 609.02531pt>
+File: nw.png Graphic file (type png)
+<use nw.png>
+Package pdftex.def Info: nw.png  used on input line 965.
+(pdftex.def)             Requested size: 113.81102pt x 95.60603pt.
+
+Overfull \hbox (6.25769pt too wide) in paragraph at lines 965--965
+[][]  
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [41
 
-]
-<58.png, id=4094, 955.57pt x 640.3925pt>
-File: 58.png Graphic file (type png)
-<use 58.png>
-Package pdftex.def Info: 58.png  used on input line 1135.
-(pdftex.def)             Requested size: 213.39566pt x 143.00722pt.
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./nw.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [42
 
- <./58.png>]
-<sent2.png, id=4189, 431.6125pt x 574.145pt>
-File: sent2.png Graphic file (type png)
-<use sent2.png>
-Package pdftex.def Info: sent2.png  used on input line 1169.
-(pdftex.def)             Requested size: 136.57323pt x 181.67137pt.
-pdfTeX warning (ext4): destination with the same identifier (name{beamerbibDahb
-i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1169 \end{frame}
-                  
-Overfull \vbox (0.19366pt too high) detected at line 1169
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [43
 
- <./sent2.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+<58.png, id=4824, 955.57pt x 640.3925pt>
+File: 58.png Graphic file (type png)
+<use 58.png>
+Package pdftex.def Info: 58.png  used on input line 1185.
+(pdftex.def)             Requested size: 213.39566pt x 143.00722pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [44
 
-]
-<tsv3.png, id=4381, 451.6875pt x 429.605pt>
-File: tsv3.png Graphic file (type png)
-<use tsv3.png>
-Package pdftex.def Info: tsv3.png  used on input line 1202.
-(pdftex.def)             Requested size: 142.26378pt x 135.30661pt.
+ <./58.png>]
+<sent3.png, id=4931, 431.6125pt x 575.14874pt>
+File: sent3.png Graphic file (type png)
+<use sent3.png>
+Package pdftex.def Info: sent3.png  used on input line 1219.
+(pdftex.def)             Requested size: 136.57323pt x 181.98898pt.
+pdfTeX warning (ext4): destination with the same identifier (name{beamerbibDahb
+i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1219 \end{frame}
+                  
+Overfull \vbox (0.51128pt too high) detected at line 1219
+ []
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [45
 
- <./tsv3.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./sent3.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [46
 
 ]
-<lsm.jpg, id=4569, 1267.73625pt x 739.76375pt>
-File: lsm.jpg Graphic file (type jpg)
-<use lsm.jpg>
-Package pdftex.def Info: lsm.jpg  used on input line 1244.
-(pdftex.def)             Requested size: 138.2795pt x 80.6857pt.
-<mvp.png, id=4570, 831.105pt x 620.3175pt>
-File: mvp.png Graphic file (type png)
-<use mvp.png>
-Package pdftex.def Info: mvp.png  used on input line 1244.
-(pdftex.def)             Requested size: 110.62401pt x 82.56555pt.
+<tsv3.png, id=5145, 451.6875pt x 429.605pt>
+File: tsv3.png Graphic file (type png)
+<use tsv3.png>
+Package pdftex.def Info: tsv3.png  used on input line 1247.
+(pdftex.def)             Requested size: 142.26378pt x 135.30661pt.
 
-Overfull \vbox (2.04343pt too high) detected at line 1244
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [47
 
- <./lsm.jpg> <./mvp.png>]
-<ue1.png, id=4666, 654.445pt x 164.615pt>
-File: ue1.png Graphic file (type png)
-<use ue1.png>
-Package pdftex.def Info: ue1.png  used on input line 1257.
-(pdftex.def)             Requested size: 245.83282pt x 61.83345pt.
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./tsv3.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [48
 
- <./ue1.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+<lsm.jpg, id=5357, 1267.73625pt x 739.76375pt>
+File: lsm.jpg Graphic file (type jpg)
+<use lsm.jpg>
+Package pdftex.def Info: lsm.jpg  used on input line 1290.
+(pdftex.def)             Requested size: 110.62401pt x 64.54404pt.
+<mvp.png, id=5358, 831.105pt x 620.3175pt>
+File: mvp.png Graphic file (type png)
+<use mvp.png>
+Package pdftex.def Info: mvp.png  used on input line 1290.
+(pdftex.def)             Requested size: 82.96854pt x 61.9218pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [49
 
-]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./lsm.jpg> <./mvp.png>]
+<ue1.png, id=5466, 654.445pt x 164.615pt>
+File: ue1.png Graphic file (type png)
+<use ue1.png>
+Package pdftex.def Info: ue1.png  used on input line 1303.
+(pdftex.def)             Requested size: 245.83282pt x 61.83345pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [50
 
-]
-<plan2.png, id=4951, 1341.51187pt x 343.2825pt>
-File: plan2.png Graphic file (type png)
-<use plan2.png>
-Package pdftex.def Info: plan2.png  used on input line 1859.
-(pdftex.def)             Requested size: 284.52756pt x 72.80382pt.
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./ue1.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [51
 
- <./plan2.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [52
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+<plan0.png, id=5785, 1341.51187pt x 365.86688pt>
+File: plan0.png Graphic file (type png)
+<use plan0.png>
+Package pdftex.def Info: plan0.png  used on input line 1903.
+(pdftex.def)             Requested size: 284.52756pt x 77.59355pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [53
 
-]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+ <./plan0.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [54
 
 ]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [55
 
 ]
-<as.png, id=5419, 919.18407pt x 328.22626pt>
-File: as.png Graphic file (type png)
-<use as.png>
-Package pdftex.def Info: as.png  used on input line 1963.
-(pdftex.def)             Requested size: 284.52756pt x 101.59883pt.
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [56
 
- <./as.png>]
-<api.png, id=5513, 877.02657pt x 622.57594pt>
-File: api.png Graphic file (type png)
-<use api.png>
-Package pdftex.def Info: api.png  used on input line 1968.
-(pdftex.def)             Requested size: 284.52756pt x 201.98329pt.
-
-Overfull \vbox (10.50558pt too high) detected at line 1968
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [57
+
+]
+<as.png, id=6313, 919.18407pt x 328.22626pt>
+File: as.png Graphic file (type png)
+<use as.png>
+Package pdftex.def Info: as.png  used on input line 2010.
+(pdftex.def)             Requested size: 284.52756pt x 101.59883pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[58
+
+ <./as.png>]
+<km.png, id=6419, 671.50874pt x 490.83376pt>
+File: km.png Graphic file (type png)
+<use km.png>
+Package pdftex.def Info: km.png  used on input line 2016.
+(pdftex.def)             Requested size: 227.62204pt x 166.37947pt.
+
+Overfull \vbox (3.60178pt too high) detected at line 2016
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[59
+
+ <./km.png>]
+<api.png, id=6525, 877.02657pt x 622.57594pt>
+File: api.png Graphic file (type png)
+<use api.png>
+Package pdftex.def Info: api.png  used on input line 2021.
+(pdftex.def)             Requested size: 227.62204pt x 161.58093pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[60
 
  <./api.png>]pdfTeX warning (ext4): destination with the same identifier (name{
 tab:3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2002 \end{frame}
+l.2054 \end{frame}
                   
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
- []
-
-[58
-
-]
-<emo.png, id=5700, 883.80188pt x 441.14813pt>
-File: emo.png Graphic file (type png)
-<use emo.png>
-Package pdftex.def Info: emo.png  used on input line 2015.
-(pdftex.def)             Requested size: 312.9803pt x 156.22162pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 2015--2015
-[][]  
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
-  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
- []
-
-[59
-
- <./emo.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
-  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
- []
-
-[60
-
-]
-<compare.png, id=5887, 1046.40938pt x 351.56343pt>
-File: compare.png Graphic file (type png)
-<use compare.png>
-Package pdftex.def Info: compare.png  used on input line 2028.
-(pdftex.def)             Requested size: 312.9803pt x 105.14796pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 2028--2028
-[][]  
- []
-
-
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
-  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [61
 
- <./compare.png>]
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+]
+<sent23.png, id=6737, 1028.34187pt x 397.485pt>
+File: sent23.png Graphic file (type png)
+<use sent23.png>
+Package pdftex.def Info: sent23.png  used on input line 2064.
+(pdftex.def)             Requested size: 312.9803pt x 120.97498pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 2064--2064
+[][]  
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{beamerbibCale
+fato}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2064 \end{frame}
+                  
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [62
 
-]
-<mmm.png, id=6075, 846.91406pt x 566.86781pt>
-File: mmm.png Graphic file (type png)
-<use mmm.png>
-Package pdftex.def Info: mmm.png  used on input line 2040.
-(pdftex.def)             Requested size: 227.62204pt x 152.35573pt.
+ <./sent23.png>]
+<emo.png, id=6843, 883.80188pt x 441.14813pt>
+File: emo.png Graphic file (type png)
+<use emo.png>
+Package pdftex.def Info: emo.png  used on input line 2074.
+(pdftex.def)             Requested size: 312.9803pt x 156.22162pt.
 
-Overfull \hbox (25.65059pt too wide) has occurred while \output is active
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 2074--2074
+[][]  
+ []
+
+
+Overfull \vbox (1.44392pt too high) detected at line 2074
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
   [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][]  
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
  []
 
 [63
 
+ <./emo.png>]
+Overfull \hbox (62.72522pt too wide) in paragraph at lines 2106--2106
+ [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{tab:3}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2106 \end{frame}
+                  
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[64
+
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[65
+
+]
+<compare.png, id=7160, 1046.40938pt x 351.56343pt>
+File: compare.png Graphic file (type png)
+<use compare.png>
+Package pdftex.def Info: compare.png  used on input line 2121.
+(pdftex.def)             Requested size: 312.9803pt x 105.14796pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 2121--2121
+[][]  
+ []
+
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[66
+
+ <./compare.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[67
+
+]
+<mmm.png, id=7372, 846.91406pt x 566.86781pt>
+File: mmm.png Graphic file (type png)
+<use mmm.png>
+Package pdftex.def Info: mmm.png  used on input line 2135.
+(pdftex.def)             Requested size: 227.62204pt x 152.35573pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[68
+
  <./mmm.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[69
+
+]
+<elbow2.png, id=7583, 578.16pt x 578.16pt>
+File: elbow2.png Graphic file (type png)
+<use elbow2.png>
+Package pdftex.def Info: elbow2.png  used on input line 2168.
+(pdftex.def)             Requested size: 142.26378pt x 142.26357pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[70
+
+ <./elbow2.png>]
+<kappa_table.png, id=7690, 462.97969pt x 328.97906pt>
+File: kappa_table.png Graphic file (type png)
+<use kappa_table.png>
+Package pdftex.def Info: kappa_table.png  used on input line 2196.
+(pdftex.def)             Requested size: 156.49014pt x 111.19882pt.
+pdfTeX warning (ext4): destination with the same identifier (name{beamerbibCale
+fato}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2196 \end{frame}
+                  
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[71
+
+ <./kappa_table.png>]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[72
+
+]
+File: kohen.png Graphic file (type png)
+<use kohen.png>
+Package pdftex.def Info: kohen.png  used on input line 2222.
+(pdftex.def)             Requested size: 170.71652pt x 128.23352pt.
+
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[73
+
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[74
+
+]
+Overfull \hbox (73.451pt too wide) has occurred while \output is active
+  [] [][][][][][][][][] [][][][][] [][] [][] [][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][] [][][] [][][][][][][][][][][][][][][][
+][][][][][][]  
+ []
+
+[75
+
+]
 \tf@nav=\write6
 \openout6 = `update_DGA1033.nav'.
 
@@ -1848,11 +2099,11 @@ Overfull \hbox (25.65059pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `update_DGA1033.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2068.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2068.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2273.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2273.
  (update_DGA1033.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2068.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2068.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2273.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2273.
 
 Package rerunfilecheck Info: File `update_DGA1033.out' has not changed.
 (rerunfilecheck)             Checksum: 714F94C69B437F7CC532869D45C27DAF;332.
@@ -1862,11 +2113,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18771 strings out of 492946
- 364293 string characters out of 3126266
- 537126 words of memory out of 3000000
- 22036 multiletter control sequences out of 15000+200000
- 17284 words of font info for 63 fonts, out of 3000000 for 9000
+ 18852 strings out of 492946
+ 365213 string characters out of 3126266
+ 553261 words of memory out of 3000000
+ 22086 multiletter control sequences out of 15000+200000
+ 18326 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,63p,804b,889s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
@@ -1881,13 +2132,14 @@ cm/cmssi10.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmssi17.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/vudod/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vudod/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vu
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/vu
 dod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 ><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmtt8.pfb>
-Output written on update_DGA1033.pdf (63 pages, 4282062 bytes).
+cm/cmtt8.pfb><C:/Users/vudod/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmtt9.pfb>
+Output written on update_DGA1033.pdf (75 pages, 5198785 bytes).
 PDF statistics:
- 6246 PDF objects out of 7423 (max. 8388607)
- 150 named destinations out of 1000 (max. 500000)
- 323 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8304 PDF objects out of 8907 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 348 words of extra memory for PDF output out of 10000 (max. 10000000)
 
