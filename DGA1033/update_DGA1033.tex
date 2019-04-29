@@ -2100,8 +2100,11 @@ Example of association rule: \\
 		\caption{Features of sentiment analysis}
 		\label{tab:3}
 \end{table}}
+
 {\tiny Source: SentiWordNet (http://www.nltk.org)} \\
 {\tiny The full lab package including Senti4SD, the DSM and the gold standard is available for download at: https://github.com/collab-uniba/Senti4SD} \\
+{\tiny To train and evaluate our classifier for emotion polarity we built a gold standard composed of 4,423 posts from Stack
+Overflow. The dataset is well-balanced: 35\% of posts convey positive emotions while 27\% present negative emotions. No emotions are observed for the remaining 38\% of posts, thus they receive the neutral polarity label. \\}
 {\tiny Distributional Semantic Model (DSM) \url{https://arxiv.org/ftp/arxiv/papers/1709/1709.02984.pdf}}
 \end{frame}
 \begin{frame}
@@ -2208,17 +2211,24 @@ The graph at right shows three ROC curves representing excellent, good, and wort
 {\tiny https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4893763/}
 \end{frame}
 \begin{frame}
-\frametitle{Cohen Kappa }
-\begin{center}
-	
-	
-	
-Examples of Cohen Kappa for hints generator: \\
- 	\includegraphics[width=60mm]{kohen.png} 
-	
-	
-\end{center}
-Kappa:46\% $\rightarrow$ moderate agreement
+\frametitle{SentiwordNet}
+
+
+- SentiWordNet is a lexical resource for opinion mining. SentiWordNet
+assigns to each synset of WordNet three sentiment scores: positivity,
+negativity, objectivity. \\
+
+- SentiWordNet v3.0 is based on WordNet version 3.0.
+ WordNet website: http://wordnet.princeton.edu/ \\
+
+- The pair (POS,ID) uniquely identifies a WordNet (3.0) synset.\\
+ The values PosScore and NegScore are the positivity and negativity
+ score assigned by SentiWordNet to the synset. \\
+- The objectivity score can be calculated as:
+ ObjScore = 1 - (PosScore + NegScore) \\
+- SynsetTerms column reports the terms, with sense number, belonging
+ to the synset (separated by spaces).
+
 \end{frame}
 
 
